@@ -1,0 +1,309 @@
+# OS ANOS SEM ANDRÉ
+### Economia e geopolítica de Ishgar, de 30 de novembro de X793 a 1º de outubro de X799
+*Documento de bastidor para o narrador. Cinco anos e dez meses de Earth Land, que para André foram uma semana no Elo. Tudo nas partes I a VII saiu dos capítulos LXVI a 80 e das fichas do repositório. O que é sugestão minha, e não cânone da crônica, está isolado na parte VIII e marcado assim. Os buracos que a crônica ainda não preencheu estão listados na parte IX, e não foram inventados.*
+
+---
+
+# I — O RESUMO EM DOZE LINHAS
+
+1. **André morre** às 21h47 de 30/11/X793, na Faixa Sul, impedindo a travessia de Vorgath. Dezenove quilômetros quadrados de chão viram **a Cicatriz Menor**.
+2. O mundo recebe uma **mentira oficial**: um ritual da *Ordem do Eclipse Vermelho*. O voto de Ishtar no Conselho decide a mentira.
+3. **Valerius** apaga da memória dos seis Grão-Mestres que o viu, entrega o sinete a Ishtar e some. **Ishtar vira a Voz do Pontífice.**
+4. O rei **Toma adoece** (*"Sua Majestade não come"*). Hisui governa no papel; **Ishtar segura a coroa, os nobres e os credores.**
+5. **A Succubus's Hall passa a Fairy Tail** no ranking da Weekly (X796). Primeira vez em vinte anos.
+6. **Stella cai num golpe sem batalha** (X795) e vira teocracia do **Deus Branco**.
+7. Em **Bosco**, *Vandra Oskell* (Irene) vai de sócia minoritária a **dona de metade das tarifas do reino**. Uma guerra alfandegária por mês.
+8. **Iceberg** volta à guerra de jarls. **Desierto** seca: três anos sem chuva. **Pergrande** sorri, promete e não assina.
+9. **O Véu afina, e o que atravessa sobe de classe**: Degradados (X795–X796), uma Carga (X798), um Legionário (X798), e dezesseis Etherious de Damarium em Hargeon (X799).
+10. **Damarium** passa de 19 a 88 Etherious com nome. Em setembro de X799, o caos dos portos de Bosco mata **11.400** e o corpo do Imperador adianta **cinquenta mil anos**.
+11. **Nasce uma geração**: Gale, Katarina, Nasha, Ulric.
+12. Em 1º/09/X799 **André volta**. Em 30/09, **Hargeon arde** e perde o estoque de inverno numa noite.
+
+---
+
+# II — O PONTO DE PARTIDA (X793)
+
+*Para medir o que mudou, o que valia antes. Fonte: "A Bolsa e a Lâmina", Oitavo Volume.*
+
+### A moeda
+- **A Coroa**, desde a **Reforma de Era** (X780), em três ligas: **1 ouro = 10 pratas; 1 prata = 5 cobres.** A prata é a moeda do dia a dia.
+- **Ouro selado** (anel rúnico do Conselho, rastreável) paga todo contrato de guilda por lei. **Ouro cego** (lingote, moeda antiga, joia desmontada) não deixa rastro.
+- Moedas estrangeiras nos portos e fronteiras: a **dobra** de Bosco, o **anel** de Iceberg, o **sol furado** de Desierto, a **placa** de Seven. Câmbio de 3% a 8%. **Uma das casas de câmbio pertence à Succubus's Hall.**
+
+### O custo de viver (X793)
+| | |
+|---|---|
+| Fogaça de pão | 2 pratas |
+| Refeição simples | 5 pratas |
+| Peixe grande no porto de Hargeon | 4 pratas |
+| Garrafa de vinho de Minstrel | 3 ouros |
+| Quarto de estalagem | 7 pratas/noite |
+| Trem Magnólia–Hargeon | 8 pratas (2 ouros na 1ª) |
+| Weekly Sorcerer | 3 pratas |
+| Braçal | ~15 ouros/mês |
+| Guarda de cidade | 22 ouros/mês |
+| Mago de guilda mediano | 60–120 ouros/mês |
+| Mago Classe S | 300–800 ouros/mês |
+| Casa boa em Magnólia | 5.000 ouros |
+| Funeral com lápide | 12 ouros |
+
+### O mapa político de X793
+- **Fiore:** Toma E. Fiore rei; Hisui princesa; o Conselho Mágico em Era sob **Draculos Hyberion**, com os seis Grão-Mestres. A **Concordata** e as **Quinze Casas** regulando a Provação de Crocus e os Graus.
+- **A Fairy Tail** devia **4.200 Coroas** em escombros; contava com o prêmio da Provação.
+- **O Deus Branco** já tinha **seiscentos mil fiéis em três reinos** (Stella, Seven, Bosco) e uma praça de onze mil em Vantris.
+- **Irene** já construía Damarium havia dois anos.
+
+---
+
+# III — LINHA DO TEMPO
+
+## X793
+- **30/11, 21h47.** André morre: a espada do Corpo Celestial de Jellal pelas costas, por ordem que Valerius escolheu e Ishtar consentiu. Vorgath recua a uns 70% da travessia e jura extinguir a casa Silverseal.
+  - **A Cicatriz Menor:** dezenove quilômetros quadrados da Faixa Sul abertos, quatro degraus de rocha, ilhas flutuando sob lua vermelha, um lago novo, solo apodrecido. Cento e vinte mil pessoas em Crocus viram.
+  - **Aurveth murada** pelos Três na mesma noite.
+- **1º/12.** Valerius prende os seis Grão-Mestres numa mesa de nogueira no porão do edifício cinza de Crocus e **apaga deles a lembrança de tê-lo visto**; Wolfheim fica com um canino quebrado sem saber por quê. Entrega o sinete a Ishtar e some.
+  - **Em Vantris**, os onze mil não se levantam no décimo minuto. A voz do Deus Branco se cala depois de **422 noites seguidas**.
+- **O Conselho.** Diante da tese de "guilda das sombras", Makarov cresce dois metros sem magia: *"Eu vi o meu filho morrer de joelhos na lama, pedindo desculpa."* **O voto de Ishtar contra o veto dos Santos** decide a versão oficial: um ritual da **Ordem do Eclipse Vermelho**. *"A senhora não vai entrar no enterro dele."*
+- **4/12.** Na enfermaria de Magnólia, Erza e Mirajane brigam diante do corpo.
+- **5/12, 11h.** **Enterro na cripta de Kardia.** Monumento de pedra negra de Hargeon, dois metros e dez, pago por Hisui; epitáfio *"Eu só queria ter mais tempo."* Ishtar mostra a **cabeça de Jellal** numa caixa preta (um construto do Arquivo). **Jellal Fernandes passa a não existir.**
+- **Dezembro.**
+  - A Weekly publica uma **edição especial inteira de borda preta**. Nasce o mito: **Mago Santo Número Zero** (título póstumo), o **boneco oficial de 30 Coroas** (cabelo de lã cinza-prateada, olhos de madrepérola), e a *Balada do Corvo de Sangue* nas tavernas.
+  - **Sonya escreve duas cartas** (a Ishtar e a André). Ninguém responde.
+  - **15/12:** a Casa Silverseal concede a Erza o sobrenome **Silverseal**. Ela riscou *Scarlet* do mural com uma faca.
+  - **Hisui** guarda na gaveta os **esponsais** de 27/11 (noiva de André no papel) e não os rasga.
+- **Na cripta**, toda noite às **21h47**, a temperatura cai a seis abaixo de zero por pouco mais de um minuto.
+
+## X794
+- **22/01.** **Imperos e Safina voltam do Firmamento**, com rachaduras cinzentas da "correção". Ele passa a morar no terraço do castelo de Hargeon; ela, a servir a criança.
+- **Fevereiro.** Laxus entrega a Erza o **berço** de carvalho de Magnólia.
+- **Março.** Porlyusica examina Erza: depressão grave. Makarov passou três meses diante de uma garrafa fechada.
+- **19/03, 04h40.** Nasce **Gale Redfox**.
+- **Abril–maio.** **Gray e Lisanna** começam atrás do balcão. Gildarts treina Gray no lugar de André.
+- **3/05.** **Jellal vai a Greyhollow**, responde a pergunta de André para a pedra de Meredy (*"Eu"*) e deixa a máscara ali.
+- **18/05.** Capa da Weekly: **Erza grávida de André Silverseal**, seis meses, *"a criança nasce em julho"*.
+- **19/05.** Depois de 169 noites, **o Deus Branco volta a falar**, com os sete ao mesmo tempo: ***"Preparem a casa."*** O Rei entende: *a criança*.
+- **Junho.** **Lirmont**: Mirajane mata sete cultistas canibais na fronteira com Bosco (contrato de Grau S, 4.000 Coroas).
+- **24/07, 05h17.** **Nasce Katarina Silverseal**, por cesárea mágica de Wendy, com três parteiras da nobreza pagas por Ishtar. Em Vantris, os sete acordam juntos: ***"Ela tem os olhos."*** A voz da gota de Ishtar para de perguntar as horas.
+- **Natsu e Lucy:** onze contratos seguidos, noivado com meia maçã, casa a três ruas da guilda com macieira.
+- **Outubro.** Na cripta, a queda de temperatura **passa de um minuto**; aparece ao lado da folha prateada uma **caneca de madeira escura**, a que Tomas fez no torno, no Elo.
+- **Bosco.** *Vandra Oskell* começa a subir.
+
+## X795
+- **Golpe em Stella**, de madrugada, sem batalha. O reino acorda **teocracia**, governado por **um conselho de rostos cobertos de branco** que nem os embaixadores conseguem nomear.
+- **Os Degradados de Ishtar**, sozinha, sem que ninguém saiba:
+  - **fevereiro**: pântano ao sul de **Clover**, numa vila de palafitas;
+  - **junho**: mina de sal de **Oak Town**, depois que catorze mineiros desceram e não subiram;
+  - **dezembro**: a "maré roxa", subindo da **baía de Hargeon** diante do castelo; ela desceu descalça, de roupão, com a taça na mão.
+- **Os Cristais.** Num arquivo das coroas aberto por Hisui, Ishtar acha **a lista dos Cristais de Velaron** e começa a caçá-los pelas costas de Valerius. **Viktor** é o mensageiro. Um colecionador de Iceberg morre "do coração" depois de um leilão em Bosco.
+- **Iceberg:** os jarls voltam a se esfaquear pelos portos.
+- **Desierto** começa a secar; caravanas de túnica branca atravessam as dunas para o norte.
+- **Seven e Minstrel** reforçam as fronteiras. **Pergrande** manda enviados a todos os lados.
+
+## X796
+- **Começo do ano.** **Toma adoece.** Passa as audiências olhando para a janela e assina o que lhe põem na frente.
+- **Abril.** Quarto Degradado, orla da **Floresta de Worth**. Um caçador de peles viu *uma mulher de cabelo prateado de pé em cima de uma coisa que ainda se mexia*; o delegado riu e arquivou.
+- **Maio.** **Casamento de Gray e Lisanna** no salão da guilda. Choveu só sobre o telhado.
+- **~Julho.** Quinto Degradado, nos **aquedutos velhos sob Crocus, a duzentos metros do quarto do rei**.
+- **O ranking da Weekly:** **Succubus's Hall**, Fairy Tail, Sabertooth, Lamia Scale, Blue Pegasus, Mermaid Heel, e **três guildas novas** de Fiore. Ishtar, *"a maga mais poderosa do mundo"* (nota de rodapé: *desde X793*). **Marcus** aprovado em Grau S; **Viktor** e **Morrigan**, Grau A; **Eris** recusa ser testada.
+- **9/10.** Ishtar faz 28. Erza e Katarina vão a Hargeon. **Há um enviado de Pergrande no salão.** A gota diz *"Está na hora"* e se cala. Hisui dá a Ishtar um caderno de astronomia de 800 anos, de **Stella Silverseal**. Ishtar oferece a Lisanna salário e casa.
+- **Outono.** Alarme falso de gravidez de Lisanna.
+- **Outubro.** Lucy grávida de quatro meses; Natsu e Gray num contrato de Grau A para pagar o aluguel.
+- **Novembro.** **O primeiro Degradado de Mirajane**, com Safina, numa região de pinheiros e neve no norte.
+- **Inverno.** Ishtar cava em **dezenove madrugadas** uma sala sob o castelo, com porta de ferro sem fechadura e um nicho do tamanho de um punho.
+- **Na cripta**, a rachadura do monumento passa da altura do joelho. **Em Era**, o Conselho se reúne toda segunda-feira numa sala com uma cadeira a mais que ninguém lembra por que está lá.
+
+## X797
+- **Março.** Nasce **Nasha Dragneel**, dezenove horas de parto.
+- **Outono.** O piquenique do prado do moinho; a lebre esfolada; o filho do ferreiro com o braço quebrado em dois lugares. A guilda faz o pacto: *ninguém conta pra Erza.* Laxus passa a levar Katarina para caçar aos sábados.
+- **Outubro.** Liliana segura o mar aberto por uma hora e quarenta a duas milhas da costa; **Ishtar tira um Cristal de Velaron das costelas de uma abadessa afogada** num convento afundado há 310 anos. O nicho deixa de estar vazio.
+- **Gravidez de Lisanna**, desta vez verdadeira.
+
+## X798
+- **Janeiro.**
+  - **Edrenn.** Mina de ferro **Boca Velha**, na serra de Varn, norte de Fiore, **de um consórcio de Bosco**: dezenove mineiros desaparecidos em três semanas, uma **Carga**. Ishtar e Eris descem. Ishtar paga os enterros, **pensão vitalícia às dezenove viúvas**, e **compra a mina do consórcio para fechá-la para sempre**. Oferece ao capataz, Tobald Krenn, emprego, casa e salário em Hargeon.
+  - **Gray recusa a guilda de Ishtar** e volta com vinho de Minstrel.
+  - Imperos conta que Ishtar passa quatro noites por semana diante do nicho.
+- **18/03.** Nasce **Ulric Fullbuster**.
+- **Outubro. Velmoor**, ao norte de Harrow, no reino de Stella. Um **Legionário de Vorgath** mata uma turma de lenhadores. Mirajane e Juvia perdem; **a Casa Décima Quarta de Jellal** o executa com Aço de Cinza e Grand Chariot. **A teocracia não reage.**
+
+## X799
+- **Julho.** Katarina faz cinco anos. **Gajeel forja-lhe a espada sem fio.** Imperos e Makarov esvaziam cinco barris: *"Ela vai ser igual ele." "Não. Vai ser pior."*
+- **1º/09, 03h57.** **André volta**, no corpo de Nerith Morwen, órfã de dezoito anos. A gota de Ishtar esquenta.
+- **Setembro.**
+  - **Stella Silverseal**, viva no próprio corpo, percorre Fiore deixando marcas de giz com a Lança de Varenhal.
+  - **O caos dos portos de Bosco**: **11.400 mortos**, colhidos pelo Captador; o corpo do Imperador adianta cinquenta mil anos.
+  - **Mavis** manda a Makarov o aviso torto contra Erza, com *"Hargeon"* e um selo de sete lados.
+  - Erza descobre que André voltou, e guarda.
+- **30/09, lua nova.** **O ritual do Coração Vazio** termina; André ganha um corpo novo e retoma Vexrathan. **Dezesseis Etherious de Damarium** (cinco grandes e onze novos) atacam **Hargeon**. **Vaelric e Virelia morrem** na Mata do Cabo Negro, pela mão de André. Uma das novas é capturada viva por Liliana.
+
+---
+
+# IV — GEOPOLÍTICA, REINO POR REINO
+
+### FIORE — uma monarquia de fachada
+- **No papel**, o rei é Toma. **Na teoria**, governa Hisui. **Na prática**, quem segura a coroa na cabeça do rei, os nobres quietos nas cadeiras e os credores de Fiore com o dinheiro na mão é **a mulher da torre leste, em Hargeon**.
+- **Ishtar acumula**, sem que ninguém fora da Ordem conheça o último título:
+  - Condessa de Hargeon (carta régia de Toma, X793);
+  - Maga Santa (Nº 4 dos Dez);
+  - Mestra da primeira guilda do ranking;
+  - credora da Coroa e da nobreza;
+  - **Voz do Pontífice**: os sete Archons e as quarenta e uma Casas da Inquisição respondem a ela.
+- **Toma.** Doente desde o começo de X796, de "coração", segundo o médico; *"Sua Majestade não come"*, segundo o cozinheiro do palácio. Em outubro de X796, com o rei ainda "de não comer", o cozinheiro do rei foi emprestado, e Hisui falava a Ishtar *"do rei, que não comia"*. **A última notícia dele é dessa época; a crônica não disse se vive em X799.**
+- **Hisui.** Espera, com um anel numa corrente fina debaixo do vestido que ninguém em Crocus sabe de quem é. Ishtar lhe disse que ele voltaria, *"e Ishtar Silverseal não tinha o costume de dizer coisas que não sabia"*. Fala de André sem querer: *"o André teria resolvido aquilo em uma tarde"*.
+- **O Conselho Mágico** (Era; Draculos Hyberion, um dos Quatro Deuses de Ishgar, entre os seis): aliviado. Prefere uma Silverseal estável e previsível ao irmão. Reconheceu **três guildas novas**. Não sabe o que esqueceu.
+- **A Cicatriz Menor**, na Faixa Sul, a nove quilômetros de Crocus, é marco geográfico novo e chão podre.
+- **O mito de André**: Mago Santo Número Zero, boneco de trinta Coroas, a *Balada do Corvo de Sangue* nas tavernas de Hargeon, a edição de borda preta guardada como relíquia por meninas como Nerith (recorte número quatorze).
+
+### STELLA — a teocracia que não ri
+- **X795**, golpe de madrugada, sem batalha. Governa **um conselho de véus brancos** que fala em nome do Deus Branco e cujos nomes ninguém sabe. **A mesa dos sete de Vantris** está por trás, e o Deus Branco é **Arion Silverseal** sob a luz, coisa que ninguém da mesa sabe.
+- **Converteu em vez de conquistar.** Em X793 já eram 141 mil em Stella; em X799 é o reino inteiro.
+- **Em todas as praças, uma estátua branca de uma figura de pé, sem cara**: só um capuz e nada dentro.
+- **O povo mais calmo que já se viu**: ninguém briga, ninguém grita, ninguém rouba. **E ninguém ri.**
+- **Recebe** as caravanas de Desierto (mil, dois mil por lua) e não as devolve.
+- **Exporta peregrinos**: uns trinta fiéis de véu branco desembarcam toda semana no cais de Hargeon e ficam de pé o dia inteiro, cada um com um livro branco fechado no peito. *Quem olha muito começa a querer ir.*
+- **Velmoor (X798):** um Legionário de Vorgath solto em território stelliano, e nenhuma resposta do governo.
+- **O nome:** reza uma lenda, que nenhum historiador leva a sério, que o reino herdou o nome de uma imperatriz que passava as noites olhando estrelas. A imperatriz anda por Fiore desde setembro de X799.
+- **Damarium** fica na antiga **Vesk de Stella** (o laboratório dela), uma ilha ao norte de Pergrande.
+
+### SEVEN — o reino ajoelhado
+- **Um em cada onze habitantes** ajoelhava às 4h40 já em X793 (209 mil).
+- **Fronteira reforçada** desde X795.
+- Alvo das guerras alfandegárias de Bosco. A lã de Seven chega a Hargeon (quatro mil Coroas queimadas no cais quatro em 30/09/X799).
+- Erza fez lá uma missão de Grau S em X797.
+
+### BOSCO — o campo de Irene
+- **Vandra Oskell** (Irene sob o selo de escala de Imperos) subiu em dezoito meses de sócia minoritária de uma casa de comércio a **dona de metade das tarifas do reino**.
+- **Uma guerra alfandegária nova por mês** na fronteira, sobretudo com Seven.
+- **Bosco cobra demais**: o contrabando que era dela passou para os navios de Iceberg. *"Os bosquianos cobram até para respirar"* (André, segundo Hisui).
+- **Em Magnólia não se vende mais raiz-de-névoa** desde as tarifas: Wendy vai a Hargeon, três horas de trem, para comprar o remédio de Porlyusica.
+- **Capital bosquiano em Fiore**: o consórcio dono da mina Boca Velha (até Ishtar comprá-la em X798); o vidro de Bosco nas janelas da guilda; o aço de Bosco no portão de Hargeon.
+- **O Deus Branco** fechou quarenta e uma casas bosquianas ainda em X793, e Bosco já tinha 304 mil fiéis.
+- **Setembro de X799: o caos dos portos. 11.400 mortos.**
+- Mercado de antiguidades por onde circulam os Cristais de Velaron.
+
+### ICEBERG — a guerra dos jarls
+- Os jarls do norte **voltaram a se esfaquear** pelos portos (X795).
+- Um tal **Ulfgar Pé-de-Ferro** tomou dois portos no inverno passado (X798–X799) e perdeu um na primavera, e **queimou o outro** antes de perdê-lo para não deixar ao jarl que vinha tomando. Ninguém sabe mais quem manda onde.
+- **Os navios de Iceberg fazem o contrabando** que antes era de Bosco.
+- É a terra da primeira morte de André.
+
+### DESIERTO — a seca
+- **Três anos sem chuva** (em X799). **O rio de Al-Hadir virou estrada de areia.**
+- **Caravanas brancas**, mil, dois mil por lua, atravessam a fronteira de Stella e não voltam.
+- **Guildas negras abrindo túmulos antigos**; uma não sobreviveu ao pagamento (caça aos Cristais).
+- No sul, a lenda do *Assassino de Nações* ainda é cantiga de ama.
+
+### MINSTREL
+- **Fronteira reforçada.** Continua vendendo **cerveja** (os barris da festa de Katarina) e **vinho** (a garrafa de Gray) a Fiore.
+
+### PERGRANDE — o que sorri
+- **Enviados a todos os lados**, que sorriem, prometem tudo e não assinam nada.
+- **Um enviado no salão de Ishtar** em outubro de X796; **o embaixador** tomando café com ela em X797.
+- **É o reino que guarda a memória do Império Silverseal** (um enviado contou mil anos de Império numa tribuna em Crocus, X793).
+- **Zeref está lá**, segundo o aviso que Mavis quis dar e não conseguiu (*"Zeref está vivo. Está em Pergrande."*), e Damarium fica a trezentos quilômetros da costa dele.
+
+### CAELUM
+- Berço da linhagem de Morgana. Ishtar fechou ali **uma fenda inteira no mar**, ponto por ponto, com uma malha de correntes.
+
+### ALVAREZ
+- **A crônica não disse** quem governa o império depois da guerra. Levy lê o arquivo público de Alvarez desde X793.
+
+---
+
+# V — ECONOMIA
+
+### 1. O crédito de Fiore tem um endereço: Hargeon
+- A Coroa (moeda) **não teve reforma narrada**. O que mudou foi **quem empresta**: a Coroa e a nobreza devem a Ishtar.
+- **Hargeon** é o porto principal de Fiore, com casa de câmbio da guilda, hospital de duzentos leitos com o nome dela, a Casa das Gaivotas e o píer de vinte e dois anos de obra.
+- **Ishtar lucra com as guerras localizadas** que Irene fabrica sem saber quem as fabrica.
+- **Ela escreve os seguros**, e o dela **não cobre fogo mágico**.
+
+### 2. O comércio que travou
+- **Tarifas de Bosco** encarecendo sal, lã, grão, ervas e remédio, com uma guerra alfandegária nova por mês.
+- **A greve da fé**: em Stella, Seven e Bosco, fornecedores convertidos pararam de vender, estivadores se recusaram a descarregar, e seiscentas pessoas ajoelhadas fecharam um armazém em Bellum Reach sem tocar em ninguém.
+- **Portos de Iceberg em disputa**; o contrabando migrou para os navios do norte.
+- **Desierto sem rio**, sem caravana comercial (as caravanas agora são de peregrinos).
+- **Vantris na contramão**: de 22% de desemprego em X791 a fila na porta dos armazéns, três casas de carga novas e filial de banco em X793. **A fé trabalha.**
+
+### 3. As guildas
+- **Succubus's Hall no topo** desde X796, concentrando contratos de prestígio e do Conselho; três Grau S ou Grau A novos na casa.
+- **A Fairy Tail** perdeu o primeiro lugar, ninguém achou injusto, e doeu. Devia 4.200 Coroas de escombros em X793; a crônica não registrou como pagou.
+- **Contratos que o Véu criou**: Lirmont (Grau S, 4.000 Coroas), Velmoor, a Boca Velha. O que antes era contrato de fera passou a ser de coisa de fora, e quem não sabe disso morre.
+- **Mirajane** vive de contrato de Grau S, uma ou duas vezes por mês.
+
+### 4. A economia que ninguém vê: almas
+- **O Captador de Damarium** desvia almas no instante entre o desprendimento e a subida. **Cada morte em massa é colheita.**
+- **Guerra produz alma; alma produz corpo**: o do Imperador, que adiantou cinquenta mil anos com os portos de Bosco, e os Etherious das cubas, de 19 a 88.
+- **O Deus Branco**, por outro caminho, junta gente viva que não ri.
+- E **o Firmamento** cobra a conta de tudo no Registro, com a Inquisição pagando o saldo com faca na mão. **O número da Balança sobe todo trimestre.**
+
+### 5. A noite de 30/09/X799 em Hargeon
+| Perda | |
+|---|---|
+| **Armazém do cais três** | **Grão de Clover, 8.000 Coroas**: o estoque de inverno da cidade inteira. Virou vidro negro pelas chamas de Viktor e caiu em cima de si mesmo. |
+| **Armazém do cais quatro** | **Lã de Seven, 4.000 Coroas.** Fogo roxo. O seguro não cobre fogo mágico. |
+| **Porto** | Três navios de mastro partido, dois deles de Bosco. O píer principal entortado por uma luz roxa que dobrava as coisas. |
+| **Mercado** | Chafariz de mármore partido; a estátua de bronze da mulher alta de correntes saindo das mãos (Ishtar) caída de cara no chão, com uma corrente partida. |
+| **Rua dos peixeiros** | Um lado queimado por um lampião de breu derrubado. |
+| **Castelo** | O portão novo de aço de Bosco arrancado e dobrado em ferradura. |
+| **Gente** | **Nove guardas mortos**, que Morrigan levantou e fez descer a Rua do Sal em fila; *"pensão integral. Eu levo pessoalmente."* Os civis mortos não foram contados em cena. |
+| **Ordem dada** | *"Ninguém morre em Hargeon esta noite por causa de um armazém. Quem me trouxer uma criança viva, eu pago em ouro."* |
+
+---
+
+# VI — O VÉU, E O QUE ATRAVESSA
+
+| Quando | Onde | O quê | Quem matou ou colheu |
+|---|---|---|---|
+| Fev. X795 | Pântano ao sul de Clover | Degradado | Ishtar, sozinha |
+| Jun. X795 | Mina de sal de Oak Town (14 mineiros) | Degradado | Ishtar |
+| Dez. X795 | Baía de Hargeon, a "maré roxa" | Degradado | Ishtar |
+| Abr. X796 | Orla da Floresta de Worth | Degradado | Ishtar |
+| ~Jul. X796 | Aquedutos sob Crocus, a 200 m do rei | Degradado | Ishtar |
+| Nov. X796 | Pinheiros e neve, no norte | o primeiro de Mirajane | Mirajane, com Safina |
+| Jan. X798 | Boca Velha, Edrenn (19 mineiros) | **Carga** | Ishtar e Eris |
+| Out. X798 | Velmoor, Stella (uma turma de lenhadores) | **Legionário de Vorgath** | Casa Décima Quarta (Jellal) |
+| Set. X799 | Portos de Bosco (11.400 mortos) | colheita de Damarium | Irene (quem fez) |
+| 30/09/X799 | Hargeon | **16 Etherious de Damarium** | André, Ishtar e a Elite da Succubus's Hall |
+
+- **Safina** sentiu os cinco primeiros atravessando e chegou cinco vezes tarde: *"alguém"* já tinha matado, com cheiro de Imperos, vinho, perfume e algo velho que esquenta.
+- **Zirael**, em X798: *"é o maior erro que eu sinto desde X793."*
+- **A escada sobe**: Degradado, Carga, Legionário. O Véu está fino ao norte.
+
+---
+
+# VII — O LADO QUE NÃO APARECE NOS JORNAIS
+
+- **Inquisição.** Ishtar no comando como Voz do Pontífice; Valerius fora do Registro. Ela caça os Cristais contra a terceira cláusula do Acordo da Fenda de Morgana, que não conhece. **Jellal**, morto no papel, comanda a Casa Décima Quarta. **Levy** está em ESCARLATE ALTO.
+- **Firmamento.** Imperos e Safina "corrigidos", restaurados a 15% em X799 e com funções trocadas: ele volta a André; ela vai para Ishtar, para fazer dela a rival do irmão. Os Três precisam do **Coração Vazio**, o corpo novo de André, como receptáculo.
+- **Kharoth.** Vorgath recuou inteiro e jurou. Os Príncipes souberam dos Silverseal. O Oitavo Príncipe, Zeref, em Damarium.
+- **Aurveth.** Murada pelos Três desde a noite da morte. Zirael disse a Juvia que a profecia de Celestara *"não termina num túmulo"*.
+- **O Elo.** O fluxo inverteu e corre para Earth Land. Stella saiu por ali.
+- **A cripta de Kardia.** A queda das 21h47; a caneca de Tomas; a rachadura do monumento; em 9/10/X796, pela primeira vez em quase três anos, **a cripta não esfriou**.
+- **O Deus Branco** espera Katarina *"abrir os olhos"*, com uma casa pronta em Vantris.
+
+---
+
+# VIII — PROJEÇÕES PARA O NARRADOR
+***Sugestões minhas, não cânone. Use, ajuste ou descarte.***
+
+1. **O pão de Hargeon no inverno de X799–X800.** Sem os 8.000 Coroas de grão de Clover, a fogaça de 2 pratas pode chegar a **3 ou 4 pratas** até a próxima safra, e mais se Bosco taxar o grão de reposição. É a primeira conta que a cidade vai cobrar de Ishtar, e de André, que estava no castelo.
+2. **Os seguros de Hargeon.** O mercador da lã de Seven não recebe nada. É um processo, uma inimizade, ou uma dívida que Ishtar paga do bolso para não perder o porto.
+3. **O preço do medo.** Depois da noite das coisas sem nome, aluguel perto do cais cai, aluguel perto do castelo sobe, e os peregrinos de véu branco no cais ganham ouvintes.
+4. **A Coroa doente.** Se Toma morrer, Hisui herda um reino que deve a Ishtar e uma noiva de papel com um morto que voltou.
+5. **Bosco e a colheita.** Onze mil e quatrocentos mortos nos portos de Bosco significam portos parados, estiva sem gente e tarifas ainda mais altas: o sal e o remédio sobem em Fiore.
+6. **O número da Balança.** Cada morte em massa da colheita entra no Registro. A Inquisição vai querer saber quem está colhendo.
+
+---
+
+# IX — O QUE A CRÔNICA AINDA NÃO NARROU
+*(buracos de verdade; ficam à sua escolha)*
+- Pouco de Earth Land entre o fim de X797 e agosto de X799 aparece em cena; os capítulos 71 a 75 se passam sobretudo no Elo.
+- O que Hisui fez nesses anos, além de esperar; se Toma ainda vive.
+- Sabertooth, Lamia Scale, Blue Pegasus e Mermaid Heel: só a posição no ranking.
+- Os graus oficiais atuais de Natsu, Lucy, Juvia (*"Grau S"* na boca de Mira), Wendy, Gajeel, Levy, Lisanna, Laxus e Mirajane.
+- Se a Fairy Tail pagou os 4.200 de escombros, e se a casa ganhou o prêmio da Provação de X793.
+- Quantos Cristais Ishtar tem além da gota, das sete lascas e do cristal do convento.
+- Como a teocracia governa Stella no dia a dia, e o que a Areia fez com a vontade de agir.
+- Quem governa Alvarez.
+- Onde está Gildarts em X799.
