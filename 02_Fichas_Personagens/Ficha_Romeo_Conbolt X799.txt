@@ -18,7 +18,7 @@
 | **Família** | Pai: **Macao Conbolt**, que segurou a guilda falida nos sete anos de Tenrou. "Tio" sem sangue: **Wakaba Mine**, que conta histórias de fogueira desde que ele tinha oito anos. |
 | **Guilda** | **Fairy Tail**, a vida inteira. |
 | **Rank** | **Grau B**, aprovado na Provação de Crocus de novembro de X796, aos dezessete anos. Em X793 tinha perdido para Juvia a vaga de segundo candidato da casa: **vinte e um votos contra trinta e quatro.** |
-| **Peso** | Baixo, e começou a subir. Não esteve na Noite de Imperos nem na Faixa Sul: assistiu à Provação de X793 por lacrima, no salão de Magnólia. Conhece a versão oficial da morte de André (o ritual da Ordem do Eclipse Vermelho). Sabe de Zirael o que a guilda inteira sabe. Reconheceu Impêros no balcão, **sabe que André voltou** e ouviu dele a história do Cerberus, mas não esteve em nenhum dos segredos dos onze. |
+| **Peso** | Baixo, e começou a subir. Não esteve na Noite de Impêros nem na Faixa Sul: assistiu à Provação de X793 por lacrima, no salão de Magnólia. Conhece a versão oficial da morte de André (o ritual da Ordem do Eclipse Vermelho). Sabe de Zirael o que a guilda inteira sabe. Reconheceu Impêros no balcão, **sabe que André voltou** e ouviu dele a história do Cerberus, mas não esteve em nenhum dos segredos dos onze. |
 
 ---
 
@@ -130,8 +130,7 @@ Cada cor tem uma propriedade diferente. Romeo acende seis das sete.
 ---
 
 ## VIII — NOTAS DE CONTINUIDADE
-- **Idade:** 14 em X793, **20 em X799**. O Ato II diz que ele tinha "vinte e dois anos", "nove quando vocês sumiram" e "dezesseis quando voltaram"; o Ato III repete os "vinte e dois". São deslizes: valem os números desta ficha. O "vinte e um" da Mirajane no Ato II é **contagem de votos**, não idade.
-- **Ato XI, cena do Impêros:** a "sinceridade dos dezesseis anos" é deslize; em X799 ele tem vinte.
+- **Idade:** 14 em X793, **20 em X799**. Os Atos II, III e XI foram corrigidos em novembro de 2026 (antes diziam vinte e dois anos em X793 e dezesseis em X799). Na votação do Ato II ele agora diz: *"Eu tinha cinco anos quando vocês sumiram"*, *"eu tinha doze"* quando voltaram e *"Eu tenho catorze anos, Mestre. A Wendy tem catorze e cura gente."* O "vinte e um" da Mirajane no Ato II é **contagem de votos**, não idade.
 - **Romance:** o interesse pela Wendy **nasce em outubro de X798, com os dois adultos** (ele com 19, ela com 18). **Não reescrever X793–X797 como romance.** O *Wendy-nee* de X794 e a dança do casamento de X796 não são romance e não devem ser relidos como romance.
 - **Tenrou:** pelo cânone, Romeo teria seis anos em X784 e treze em X791; com a idade fixada pelo roleplay, teria cinco e doze. Vale o roleplay.
 - **O anexo dos menores:** Romeo saiu da lista em X799.

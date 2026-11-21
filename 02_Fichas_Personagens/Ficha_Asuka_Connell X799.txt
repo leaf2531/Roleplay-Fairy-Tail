@@ -20,7 +20,7 @@
 | **Família** | Pai: **Alzack Connell**. Mãe: **Bisca Connell**. Filha única. |
 | **Guilda** | **Fairy Tail**, de nascença. Tem a marca desde os doze. |
 | **Rank** | Nenhum. Maga de guilda, sem Provação. **Quer fazer a de novembro de X799.** |
-| **Peso** | Baixo. Não esteve na Noite de Imperos nem na Faixa Sul. Sabe de Zirael o que a guilda inteira sabe. Viu Mirajane e Juvia voltarem de Velmoor e concluiu sozinha que os adultos mentem quando dizem que está tudo sob controle. **Sabe que André voltou.** |
+| **Peso** | Baixo. Não esteve na Noite de Impêros nem na Faixa Sul. Sabe de Zirael o que a guilda inteira sabe. Viu Mirajane e Juvia voltarem de Velmoor e concluiu sozinha que os adultos mentem quando dizem que está tudo sob controle. **Sabe que André voltou.** |
 
 ---
 
@@ -58,7 +58,7 @@
 - **X798. Velmoor (outubro).** Viu Mirajane e Juvia voltarem vencidas, a enfermaria cheia, a Wendy sem dormir. Os adultos disseram às crianças que estava tudo sob controle. Ela não é criança, e ninguém estava no controle de nada.
 - **X799. A banca (16 anos).** Tem o caderno de apostas da guilda. Aposta-se de tudo: quem derruba alguma coisa primeiro, quanto tempo o Elfman aguenta sem dizer "homem", em que hora o Macao fica bêbado. **O Gildarts é o melhor cliente; a Cana, a única rival.**
 - **X799. A mesa das crianças.** Recusa-se a sentar lá. Senta no terceiro degrau da escada do segundo andar, o andar onde ninguém sem Grau S pode subir, exatamente um degrau abaixo do proibido. O Makarov já desistiu de reclamar.
-- **X799. A volta de André (Ato XI).** Estava no salão quando ele entrou. Foi ela quem gritou: *"É o moço da revista!"*
+- **X799. A volta de André (Ato XI).** Na noite do Impêros no balcão, saiu com os pais às nove, emburrada, reclamando que ainda era cedo. Na manhã seguinte, quando a Weekly passou de mão em mão, disse *porra* mais alto que todo mundo e levou um beliscão da Bisca. Quando André entrou, apontou para ele de pé ao lado da mãe: *"É o moço da revista."* E depois gritou de novo, assobiando com dois dedos, com a Bisca chorando agarrada no braço dela. A Bisca a mandou para casa; ela voltou meia hora depois pela porta dos fundos.
 - **X799. O rio (Ato XIII).** Na luta de Natsu e André na beira do rio, levou o caderno e anotou as apostas; quando o rugido do Natsu incendiou o salgueiro, os pais a puxaram para trás do barranco.
 - **X799. O segredo do Romeo.** Pegou o Romeo ensaiando dança com uma vassoura no depósito da guilda, de noite. Não contou a ninguém. Contou à Kinana que *"o Romeo dança bem"*, o que é mentira e um favor ao mesmo tempo.
 - **X799. A inscrição (setembro).** Pediu ao Makarov para fazer a Provação de novembro. Ele disse que, sendo menor, precisava da assinatura de um dos pais. **Ela falsificou a da Bisca.** O Makarov reconheceu a letra na hora e guardou a ficha na gaveta do escritório sem dizer nada a ninguém. Ela ainda não sabe que ele sabe.
@@ -117,8 +117,8 @@
 ---
 
 ## VIII — NOTAS DE CONTINUIDADE
-- **Idade:** **10 anos em X793, 16 em X799**, por decisão do autor (novembro de 2026). Os Atos I e III dizem *"oito anos"* em X793; o Ato XI diz que ela tinha *"quatro anos"* em X793. Valem os números desta ficha.
-- **Ato XI (a noite do Impêros e o dia seguinte):** o texto a escreve como criança pequena: dormindo no ombro do pai, de mão dada, no colo da Bisca batendo palmas, perguntando à mãe o que é *"porra"*. Não combina com os dezesseis anos de X799 (nem com os catorze da conta antiga) e está na lista de incongruências para revisão.
+- **Idade:** **10 anos em X793, 16 em X799**, por decisão do autor (novembro de 2026). Os Atos I, III e XI foram corrigidos (antes diziam oito e quatro anos em X793).
+- **Ato XI (a noite do Impêros e o dia seguinte):** reescrito para a adolescente de X799. Ela sai emburrada às nove, chega de mãos nos bolsos, diz *porra* mais alto que todo mundo e leva um beliscão da Bisca, grita *"é o moço da revista"* assobiando com dois dedos, e volta pela porta dos fundos meia hora depois de ser mandada para casa.
 - **Cânone:** no cânone, Asuka nasce nos anos de Tenrou. Com dez anos em X793, ela nasceu em X783, um ano antes da partida; era bebê quando a guilda sumiu. Vale o roleplay.
 - **Linha Absoluta:** continua no anexo dos menores até X801. Nenhum romance, nenhum enquadramento íntimo.
 

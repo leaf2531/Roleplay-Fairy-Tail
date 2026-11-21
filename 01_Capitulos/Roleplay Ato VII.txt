@@ -2515,7 +2515,7 @@ André: "Vocês não têm como me processar. Não tem artigo. Não tem pena. Nã
 
 André: "Então vocês fazem o que qualquer administração competente faria."
 
-André: "Vocês multam a Fairy Tail em quatrocentos ouros de escombro, vocês abrem processo no Artigo Quarenta, e vocês penduram isso no pescoço de um velho de noventa e sete anos que não fez absolutamente nada."
+André: "Vocês multam a Fairy Tail em quatrocentos ouros de escombro, vocês abrem processo no Artigo Quarenta, e vocês penduram isso no pescoço de um velho de noventa anos que não fez absolutamente nada."
 
 Yajima: "..."
 
@@ -4023,7 +4023,7 @@ Ishtar: "Como é?"
 
 André: "Cinco por cento, mana."
 
-André: "Eu tenho cinco anéis de contenção gravados no peito. O Imperos gravou quando eu tinha doze anos, depois que eu abri dois quilômetros de floresta dormindo."
+André: "Eu tenho cinco anéis de contenção gravados no peito. O Impêros gravou quando eu tinha doze anos, depois que eu abri dois quilômetros de floresta dormindo."
 
 André: "E eu ando por esse mundo a cinco por cento desde então."
 
@@ -5475,11 +5475,11 @@ Makarov: "Eu vou responder essa, Baltasar."
 
 E o velho pôs as duas mãos no estrado.
 
-Makarov: "Eu tenho noventa e sete anos."
+Makarov: "Eu tenho noventa anos."
 
 Makarov: "Eu sentei numa cadeira dessa ordem, saí dela, e voltei — e eu sou a única pessoa da história que fez isso, o que significa que eu já vi nove admissões."
 
-Makarov: "E, em noventa e sete anos, eu nunca vi uma sala de dez pessoas ficar **caladas** por causa de uma coisa que um moleque disse."
+Makarov: "E, em noventa anos, eu nunca vi uma sala de dez pessoas ficar **caladas** por causa de uma coisa que um moleque disse."
 
 Makarov: "Ele não pediu nada. Ele não ameaçou nada. Ele leu o documento, devolveu, disse que não assinava, e explicou por quê."
 
@@ -5497,7 +5497,7 @@ Makarov: "E ele não pediu nada a ninguém em cinquenta e um dias."
 
 Makarov: "**Nem uma vez.**"
 
-Makarov: "E eu vou pôr o nome dele numa placa do lado do meu, e eu tenho noventa e sete anos, e eu sei muito bem o que eu tô fazendo."
+Makarov: "E eu vou pôr o nome dele numa placa do lado do meu, e eu tenho noventa anos, e eu sei muito bem o que eu tô fazendo."
 
 E a sala aplaudiu.
 
@@ -7711,7 +7711,7 @@ E, no alto da torre daquela ilha, num quarto sem porta em que ninguém entra, um
 
 E, por uma fração de segundo, uma das trezentas e onze lacrimas da faixa norte girou para o lado errado no vento e enquadrou, ao longe, a galeria de campanha da Coroa a nove quilômetros.
 
-E, dentro daquele enquadramento, por menos de um segundo, havia um velho de noventa e sete anos com um cajado.
+E, dentro daquele enquadramento, por menos de um segundo, havia um velho de noventa anos com um cajado.
 
 E Mavis Vermillion, do outro lado do mar, pôs a mão no vidro.
 
@@ -9363,15 +9363,15 @@ Safina: "*Aquilo ali regenera do jeito que uma coisa regenera quando regenerar �
 
 E, no mesmo banco, um dragão branco do tamanho de um falcão grande, com um trono de quarenta e um centímetros que ele tinha trazido e que ninguém comentou, disse:
 
-Imperos: "Safina."
+Impêros: "Safina."
 
 Safina: "*Hm?*"
 
-Imperos: "Cala a boca."
+Impêros: "Cala a boca."
 
 Safina: "*Por quê?*"
 
-Imperos: "Porque a ruiva está ouvindo."
+Impêros: "Porque a ruiva está ouvindo."
 
 E Safina olhou para Erza Scarlet.
 
@@ -9633,9 +9633,9 @@ E Makarov Dreyar pôs as duas mãos no rosto.
 
 Makarov: "..."
 
-Makarov: "Noventa e sete anos."
+Makarov: "Noventa anos."
 
-Makarov: "Eu tenho noventa e sete anos."
+Makarov: "Eu tenho noventa anos."
 
 Makarov: "E eu vou morrer nesta tenda."
 
@@ -13107,11 +13107,11 @@ E, sob o toldo verde, Safina levantou a cabeça do banco.
 
 Safina: "*Ele não perde a chance.*"
 
-Imperos: "Nunca."
+Impêros: "Nunca."
 
 Safina: "*Nem quando está sendo bonito.*"
 
-Imperos: "**Ele está sendo bonito porque é a única forma que ele conhece de pedir alguma coisa.**"
+Impêros: "**Ele está sendo bonito porque é a única forma que ele conhece de pedir alguma coisa.**"
 
 Safina: "*...Hm.*"
 
@@ -14139,13 +14139,13 @@ E, sob o toldo verde, Safina levantou a cabeça de um pulo.
 
 Safina: "**AH, SEU DESGRAÇADO.**"
 
-Imperos: "**Safina—**"
+Impêros: "**Safina—**"
 
-Safina: "**IMPEROS, A GEMA!**"
+Safina: "**IMPÊROS, A GEMA!**"
 
-Imperos: "..."
+Impêros: "..."
 
-Imperos: "**Ah, não.**"
+Impêros: "**Ah, não.**"
 
 Erza: "**O QUE É QUE TEM A GEMA?!**"
 
@@ -14411,15 +14411,15 @@ E, sob o toldo verde, Safina estava com as asas meio abertas.
 
 Safina: "*Ele encolheu.*"
 
-Imperos: "Eu sei."
+Impêros: "Eu sei."
 
-Safina: "*Imperos, aquela coisa ENCOLHEU.*"
+Safina: "*Impêros, aquela coisa ENCOLHEU.*"
 
-Imperos: "**EU SEI, SAFINA.**"
+Impêros: "**EU SEI, SAFINA.**"
 
 Erza: "**O QUE É QUE ISSO SIGNIFICA?!**"
 
-E Imperos não respondeu.
+E Impêros não respondeu.
 
 Porque, naquele instante, ele estava olhando para outra coisa.
 
@@ -14779,25 +14779,25 @@ E Erza Scarlet ficou branca.
 
 E não respondeu.
 
-E Imperos disse, do trono de quarenta e um centímetros:
+E Impêros disse, do trono de quarenta e um centímetros:
 
-Imperos: "Safina."
+Impêros: "Safina."
 
 Safina: "*Hm.*"
 
-Imperos: "Foi duro."
+Impêros: "Foi duro."
 
 Safina: "*Foi verdade.*"
 
-Imperos: "**As duas coisas podem ser.**"
+Impêros: "**As duas coisas podem ser.**"
 
 E ele virou a cabeça.
 
-Imperos: "Senhorita Scarlet."
+Impêros: "Senhorita Scarlet."
 
 Erza: "..."
 
-Imperos: "Ele ainda tem uma carta."
+Impêros: "Ele ainda tem uma carta."
 
 E Erza Scarlet fechou os olhos.
 
@@ -14805,9 +14805,9 @@ Erza: "..."
 
 Erza: "**Não.**"
 
-Imperos: "Sim."
+Impêros: "Sim."
 
-Erza: "**Não, Imperos.**"
+Erza: "**Não, Impêros.**"
 
 Erza: "**NÃO.**"
 
@@ -14841,9 +14841,9 @@ Safina: "*Nós demos uma coisa a ele.*"
 
 Erza: "**Vocês deram o quê?**"
 
-E Imperos respondeu:
+E Impêros respondeu:
 
-Imperos: "Uma armadura dracônica."
+Impêros: "Uma armadura dracônica."
 
 E Erza Scarlet virou a cabeça devagar.
 
@@ -14851,13 +14851,13 @@ Erza: "..."
 
 Erza: "**Uma o quê?**"
 
-Imperos: "Ela está dormente, acoplada ao primeiro anel, desde o dia doze de novembro."
+Impêros: "Ela está dormente, acoplada ao primeiro anel, desde o dia doze de novembro."
 
-Imperos: "Ela não pode ser invocada. Ela não pode ser vestida. Ela não obedece a gesto e não obedece a palavra."
+Impêros: "Ela não pode ser invocada. Ela não pode ser vestida. Ela não obedece a gesto e não obedece a palavra."
 
-Imperos: "**Ela veste sozinha, no instante em que aquele anel abrir.**"
+Impêros: "**Ela veste sozinha, no instante em que aquele anel abrir.**"
 
-Imperos: "E ela existe para conter o que sai."
+Impêros: "E ela existe para conter o que sai."
 
 E, do outro lado do barranco, uma voz disse:
 
@@ -14889,17 +14889,17 @@ Ishtar: "Eu apostei **prateada**."
 
 Ishtar: "Porque é o que nós somos, ele e eu."
 
-E Imperos disse:
+E Impêros disse:
 
-Imperos: "Eu apostei vermelha."
+Impêros: "Eu apostei vermelha."
 
 Erza: "..."
 
 Erza: "Por quê?"
 
-Imperos: "..."
+Impêros: "..."
 
-Imperos: "Pela dor."
+Impêros: "Pela dor."
 
 E Safina disse:
 
@@ -16561,39 +16561,39 @@ Um passo, com a mão direita. O outro, com o pé esquerdo. As tiras da membrana 
 
 E André entendeu, com a parte do cérebro que não pensava, que aquele som ia ficar com ele até o dia em que morresse.
 
-André: "Imperos."
+André: "Impêros."
 
 E uma voz grave, cansada, veio de dentro do forro rasgado do sobretudo, de onde um dragão do tamanho de um gato estava agarrado com as quatro garras.
 
-Imperos: "Estou vendo."
+Impêros: "Estou vendo."
 
 André: "Você sabe o que é isso?"
 
-Imperos: "..."
+Impêros: "..."
 
-André: "Imperos."
+André: "Impêros."
 
-Imperos: "Sei."
+Impêros: "Sei."
 
 André: "E?"
 
-Imperos: "E não vou dizer."
+Impêros: "E não vou dizer."
 
 André: "**VOCÊ TÁ DE SACANAGEM COMIGO?**"
 
-Imperos: "Não estou. Se eu disser o nome, você vai pensar nele. Se você pensar nele, com a atenção que você tem agora, a atenção vai ser recíproca. Você não quer a atenção dele, Mestre. Você quer que ele continue achando que você é uma caixa com uma coisa dele dentro."
+Impêros: "Não estou. Se eu disser o nome, você vai pensar nele. Se você pensar nele, com a atenção que você tem agora, a atenção vai ser recíproca. Você não quer a atenção dele, Mestre. Você quer que ele continue achando que você é uma caixa com uma coisa dele dentro."
 
 André: "Ele *acha* que eu sou uma caixa?"
 
-Imperos: "Ele acha que tudo é uma caixa."
+Impêros: "Ele acha que tudo é uma caixa."
 
 A coisa deu mais três passos. O chão derretia sob cada um. A cabeça sempre inclinada para a direita, a orelha para cima.
 
-Imperos: "E, para constar, eu também não deveria saber. O fato de eu saber já é uma irregularidade."
+Impêros: "E, para constar, eu também não deveria saber. O fato de eu saber já é uma irregularidade."
 
 André: "Irregularidade de quem?"
 
-Imperos: "Mestre. Foco."
+Impêros: "Mestre. Foco."
 
 E Vexrathan, lá no fundo, com uma voz tão pequena que era quase um sussurro de criança:
 
@@ -16751,13 +16751,13 @@ André: "..."
 
 André: "Opa."
 
-Imperos, do forro do sobretudo: "O senhor puxou para o sul."
+Impêros, do forro do sobretudo: "O senhor puxou para o sul."
 
 André: "Eu sei."
 
-Imperos: "Para o lado de Vale Fundo."
+Impêros: "Para o lado de Vale Fundo."
 
-André: "**EU SEI, IMPEROS.**"
+André: "**EU SEI, IMPÊROS.**"
 
 E ele correu.
 
@@ -16829,7 +16829,7 @@ E, na mesa do comando, Makarov Dreyar, que estava debruçado sobre um mapa da Fa
 
 E sentiu.
 
-Não com magia. Com o corpo. Com a pele velha dos braços, que se arrepiou inteira. Com os ossos, que doeram como doíam antes de uma tempestade. Com alguma coisa atrás do esterno que tinha oitenta e oito anos e que já tinha sentido aquilo uma vez, uma única vez, muito tempo antes, numa ilha, diante de um menino de cabelo preto com olhos cansados.
+Não com magia. Com o corpo. Com a pele velha dos braços, que se arrepiou inteira. Com os ossos, que doeram como doíam antes de uma tempestade. Com alguma coisa atrás do esterno que tinha noventa anos e que já tinha sentido aquilo uma vez, uma única vez, muito tempo antes, numa ilha, diante de um menino de cabelo preto com olhos cansados.
 
 Makarov: "..."
 
@@ -16909,31 +16909,31 @@ E, ao lado dela, com um passo que fez o chão ceder sob os pés, surgiu uma cois
 
 André: "..."
 
-André: "Imperos?"
+André: "Impêros?"
 
-Imperos: "Mestre."
+Impêros: "Mestre."
 
 André: "Você não tava no forro do meu sobretudo agora mesmo?"
 
-Imperos: "Saí há onze segundos."
+Impêros: "Saí há onze segundos."
 
 André: "E que cheiro é esse?"
 
-Imperos: "..."
+Impêros: "..."
 
-André: "Isso é cerveja, Imperos?"
+André: "Isso é cerveja, Impêros?"
 
-Imperos: "É uma taxa de transporte."
+Impêros: "É uma taxa de transporte."
 
 André: "Era o cantil que tava no bolso de dentro. A escura de Hargeon. Eu tava guardando pra depois."
 
-Imperos: "O senhor estava ocupado."
+Impêros: "O senhor estava ocupado."
 
-Safina: "Ele bebeu o cantil inteiro, André. Com você levando soco. Pendurado de cabeça pra baixo no forro, bebendo. Eu vi. Eu leio ele."Imperos: "Safina."
+Safina: "Ele bebeu o cantil inteiro, André. Com você levando soco. Pendurado de cabeça pra baixo no forro, bebendo. Eu vi. Eu leio ele."Impêros: "Safina."
 
 Safina: "E arrotou."
 
-Imperos: "**SAFINA.**"
+Impêros: "**SAFINA.**"
 
 E a coisa, a vinte metros, parou.
 
@@ -16941,17 +16941,17 @@ E olhou para os dois.
 
 E a cabeça dela se endireitou.
 
-Pela primeira vez desde que tinha começado. A cabeça inclinada, a orelha para cima, a postura de escuta — endireitou. Ficou reta. E os olhos brancos, sem íris, pararam em Imperos, e depois em Safina, e depois em Imperos de novo.
+Pela primeira vez desde que tinha começado. A cabeça inclinada, a orelha para cima, a postura de escuta — endireitou. Ficou reta. E os olhos brancos, sem íris, pararam em Impêros, e depois em Safina, e depois em Impêros de novo.
 
 E ficaram.
 
 E André viu uma coisa que não entendeu e que não esqueceu.
 
-Viu o joelho esquerdo de Imperos dobrar.
+Viu o joelho esquerdo de Impêros dobrar.
 
 Um centímetro. Talvez dois. O joelho de um dragão ancião, de uma criatura que tinha visto impérios nascerem e morrerem, que chamava André de Mestre sem respeitá-lo e tratava os Magos Santos de Fiore como insetos com opinião — dobrou. Sozinho. Como o joelho de um soldado velho que ouve, numa praça de mercado, depois de trinta anos, o toque do clarim do seu antigo regimento.
 
-E Imperos travou o joelho.
+E Impêros travou o joelho.
 
 E endireitou a perna.
 
@@ -16963,23 +16963,23 @@ Safina: "..."
 
 Safina: "É ele."
 
-Imperos: "Eu sei."
+Impêros: "Eu sei."
 
 Safina: "É o Prim—"
 
-Imperos: "Eu sei, Safina."
+Impêros: "Eu sei, Safina."
 
 Safina: "Mas é pouco. É muito pouco dele. É uma agulha. Ele passou pelo buraco de uma agulha. Tem uma linha fina, fina, esticada daqui até lá, e na ponta da linha tem—"
 
-Imperos: "Uma agulha dele costura essa planície inteira."
+Impêros: "Uma agulha dele costura essa planície inteira."
 
 Safina: "Eu sei." E, depois de um instante, com a voz baixando: "Ele olhou pra você."
 
-Imperos: "Olhou."
+Impêros: "Olhou."
 
 Safina: "Ele lembra de você."
 
-Imperos: "Ele lembra de tudo. É o que ele faz. É a única coisa que ele ainda faz."
+Impêros: "Ele lembra de tudo. É o que ele faz. É a única coisa que ele ainda faz."
 
 E a coisa, com a boca de Eris, abriu as rachaduras de porcelana, e a voz arrastada disse, olhando para o dragão de dois metros e dez:
 
@@ -16999,45 +16999,45 @@ E Safina, que não tinha medo de nada, que dizia a qualquer um as coisas mais in
 
 E abriu a boca.
 
-E Imperos fechou a mão sobre o braço dela.
+E Impêros fechou a mão sobre o braço dela.
 
 Não com força. Com precisão.
 
-Imperos: "Não."
+Impêros: "Não."
 
 Safina: "Eu ia só dizer que ele era o Impe—"
 
-Imperos: "**NÃO.**"
+Impêros: "**NÃO.**"
 
-E a palavra saiu de Imperos com tanta autoridade que o ar entre os três vibrou, e as chamas dos pinheiros derretidos se inclinaram para longe dele, e Safina fechou a boca.
+E a palavra saiu de Impêros com tanta autoridade que o ar entre os três vibrou, e as chamas dos pinheiros derretidos se inclinaram para longe dele, e Safina fechou a boca.
 
 E a coisa, que tinha ouvido o começo de uma palavra, inclinou a cabeça de volta para a direita. Devagar. Com uma coisa que parecia, horrivelmente, decepção.
 
 André: "Alguém vai me explicar essa porra?"
 
-Imperos: "Não."
+Impêros: "Não."
 
-André: "Imperos, eu tô a um passo de tomar um soco que evapora pinheiro—"
+André: "Impêros, eu tô a um passo de tomar um soco que evapora pinheiro—"
 
-Imperos: "Mestre. Escute. Uma vez só. Ele não pode tocar no senhor por muito tempo. Pele contra pele, pelo que dura três batidas de coração. Quatro no máximo. Se ele segurar mais do que isso, ele sente o que está no seu peito e começa a *puxar*, e o senhor não quer descobrir o que acontece com um corpo quando uma coisa dessas puxa o que mora dentro dele."
+Impêros: "Mestre. Escute. Uma vez só. Ele não pode tocar no senhor por muito tempo. Pele contra pele, pelo que dura três batidas de coração. Quatro no máximo. Se ele segurar mais do que isso, ele sente o que está no seu peito e começa a *puxar*, e o senhor não quer descobrir o que acontece com um corpo quando uma coisa dessas puxa o que mora dentro dele."
 
 André: "E isso você pode me dizer?"
 
-Imperos: "Isso não é o nome dele. Isso é física."
+Impêros: "Isso não é o nome dele. Isso é física."
 
 Safina: "Ele tá mentindo. É o nome sim, meio que. Mas é o pedaço útil."
 
-Imperos: "Safina."
+Impêros: "Safina."
 
 Safina: "E ele tá com medo, André. Eu leio ele desde o dia em que você nasceu, e ele nunca teve medo. Ele tá com medo agora. Não de morrer. De *voltar a pertencer*."
 
-E Imperos não negou.
+E Impêros não negou.
 
 E isso, para André, foi pior do que qualquer nome.
 
 E a coisa deu um passo à frente.
 
-E Imperos e Safina ergueram as mãos ao mesmo tempo.
+E Impêros e Safina ergueram as mãos ao mesmo tempo.
 
 E a cúpula subiu.
 
@@ -17045,7 +17045,7 @@ Não do chão. Do ar. Um hemisfério de luz rubra e negra, trançada, as duas co
 
 E André sentiu o custo nos dois. Sentiu como se sente a respiração de alguém muito perto. Os dois já estavam gastos. Os dois tinham sustentado, poucos dias antes, a cúpula da luta dele contra Ishtar, com cento e onze magos do lado de fora olhando, e ainda não tinham se recuperado daquilo. E agora estavam puxando do fundo.
 
-Imperos, com a voz rouca: "Isto segura o calor. Não segura ele."
+Impêros, com a voz rouca: "Isto segura o calor. Não segura ele."
 
 Safina: "E não segura por muito tempo."
 
@@ -17315,7 +17315,7 @@ Makarov: "E a Safina."
 
 Mira: "E um... homem branco de chifres?"
 
-Makarov: "Eu não sei o que é aquilo, Mira. Eu não sei o que é metade das coisas que andam do lado daquele rapaz. E eu tenho oitenta e oito anos, e isso nunca tinha me acontecido."
+Makarov: "Eu não sei o que é aquilo, Mira. Eu não sei o que é metade das coisas que andam do lado daquele rapaz. E eu tenho noventa anos, e isso nunca tinha me acontecido."
 
 E a mesa de apoio ao lado do mapa tinha uma lacrima de comunicação, grande, do tamanho de uma cabeça, e ela acendeu, e a imagem trêmula de Laxus Dreyar apareceu nela, com o rosto sujo de fuligem e o cabelo arrepiado de estática.
 
@@ -18659,17 +18659,17 @@ Não foi um golpe. Foi um toque. Depois de dezoito minutos de pancadaria, de Cor
 
 E ficou ali.
 
-E a luz rubro-negra, no ponto em que a palma tocava, começou a desbotar. O vermelho de Imperos virou rosa, depois branco. O negro de Safina virou cinza, depois transparente. E do ponto branco saiu uma linha fina, como uma rachadura num ovo, subindo pela curva da cúpula.
+E a luz rubro-negra, no ponto em que a palma tocava, começou a desbotar. O vermelho de Impêros virou rosa, depois branco. O negro de Safina virou cinza, depois transparente. E do ponto branco saiu uma linha fina, como uma rachadura num ovo, subindo pela curva da cúpula.
 
-Imperos, do lado de fora, com as duas mãos erguidas e os braços tremendo: "Ele está lendo a trama."
+Impêros, do lado de fora, com as duas mãos erguidas e os braços tremendo: "Ele está lendo a trama."
 
 Safina: "Eu sei."
 
-Imperos: "Ele está lendo a trama como quem lê uma carta. Ele sabe onde cada fio foi amarrado."
+Impêros: "Ele está lendo a trama como quem lê uma carta. Ele sabe onde cada fio foi amarrado."
 
-Safina: "Ele sabe porque foi ele que ensinou a gente a amarrar, Imperos."
+Safina: "Ele sabe porque foi ele que ensinou a gente a amarrar, Impêros."
 
-E Imperos não respondeu.
+E Impêros não respondeu.
 
 E André, lá dentro, de joelhos na terra derretida a trinta metros da coisa, com o sangue pingando do nariz num fio contínuo, entendeu o que estava acontecendo e se levantou.
 
@@ -18691,7 +18691,7 @@ E a rachadura chegou no topo da cúpula.
 
 E a cúpula se abriu como uma flor.
 
-Não explodiu. As duas cores trançadas simplesmente se desfizeram em fios, e os fios se soltaram uns dos outros, e caíram do céu como fitas de seda sobre a planície, e se apagaram antes de tocar o chão. E Imperos e Safina, do lado de fora, foram jogados para trás pelo refluxo da própria magia, os dois ao mesmo tempo, rolando pelo capim cinzento por cinquenta metros.
+Não explodiu. As duas cores trançadas simplesmente se desfizeram em fios, e os fios se soltaram uns dos outros, e caíram do céu como fitas de seda sobre a planície, e se apagaram antes de tocar o chão. E Impêros e Safina, do lado de fora, foram jogados para trás pelo refluxo da própria magia, os dois ao mesmo tempo, rolando pelo capim cinzento por cinquenta metros.
 
 E o calor saiu.
 
@@ -20505,7 +20505,7 @@ A segunda pousou sem barulho nenhum, do outro lado: um metro e noventa de dracô
 
 André: "Vocês demoraram."
 
-Imperos: "Nós viemos de onde o senhor nos mandou ficar, Mestre. O senhor nos mandou ficar longe."
+Impêros: "Nós viemos de onde o senhor nos mandou ficar, Mestre. O senhor nos mandou ficar longe."
 
 André: "E vocês obedeceram? Logo hoje?"
 
@@ -20521,7 +20521,7 @@ E pararam.
 
 E André, que conhecia aqueles dois havia mais tempo do que conhecia qualquer ser humano vivo, viu uma coisa que não entendeu e que não esqueceu.
 
-Viu o joelho esquerdo de Imperos dobrar.
+Viu o joelho esquerdo de Impêros dobrar.
 
 Um centímetro. Talvez dois. O joelho de um dragão ancião, de uma criatura que tinha visto impérios nascerem e apodrecerem, que chamava André de Mestre sem respeitá-lo e tratava os Magos Santos de Fiore como insetos com opinião — dobrou.
 
@@ -20529,7 +20529,7 @@ Sozinho.
 
 Como o joelho de um soldado velho que ouve, numa praça de mercado, depois de trinta anos, o toque do clarim do antigo regimento.
 
-E Imperos travou o joelho.
+E Impêros travou o joelho.
 
 E endireitou a perna.
 
@@ -20539,17 +20539,17 @@ E, ao lado dele, os olhos dourados de Safina ficaram completamente pretos. Intei
 
 Safina: "..."
 
-Safina: "Imperos."
+Safina: "Impêros."
 
-Imperos: "Eu sei."
+Impêros: "Eu sei."
 
-Safina: "Imperos, é o Prim—"
+Safina: "Impêros, é o Prim—"
 
-Imperos: "**Eu sei, Safina.**"
+Impêros: "**Eu sei, Safina.**"
 
 Safina: "É pouco. É pouquíssimo dele. É uma agulha. Ele passou pelo buraco de uma agulha, tem um fio fininho esticado daqui até lá, e na ponta do fio tem—"
 
-Imperos: "Uma agulha dele costura esta planície inteira e o reino em volta."
+Impêros: "Uma agulha dele costura esta planície inteira e o reino em volta."
 
 Safina: "Eu sei."
 
@@ -20557,11 +20557,11 @@ E, depois de um instante, com a voz baixando de um jeito que André nunca tinha 
 
 Safina: "Ele olhou pra você."
 
-Imperos: "Olhou."
+Impêros: "Olhou."
 
 Safina: "Ele lembra de você."
 
-Imperos: "Ele lembra de tudo, Safina. É a única coisa que ele ainda faz."
+Impêros: "Ele lembra de tudo, Safina. É a única coisa que ele ainda faz."
 
 E a coisa, a vinte metros, parou de andar.
 
@@ -20573,7 +20573,7 @@ E a cabeça se endireitou.
 
 Pela primeira vez.
 
-E os olhos brancos pararam em Imperos.
+E os olhos brancos pararam em Impêros.
 
 E depois em Safina.
 
@@ -20599,9 +20599,9 @@ A coisa: "Novos demais."
 
 A coisa: "Vocês não estavam lá."
 
-E Imperos respondeu. E a voz dele saiu firme, e André, que o conhecia, ouviu o esforço que aquilo custou, porque Imperos o Terror Branco não tem voz trêmula, e naquele instante teve de escolher não ter.
+E Impêros respondeu. E a voz dele saiu firme, e André, que o conhecia, ouviu o esforço que aquilo custou, porque Impêros o Terror Branco não tem voz trêmula, e naquele instante teve de escolher não ter.
 
-Imperos: "Não estávamos."
+Impêros: "Não estávamos."
 
 A coisa: "..."
 
@@ -20619,7 +20619,7 @@ A coisa: "Ajoelhem."
 
 A coisa: "Perante o meu Imperador."
 
-E Imperos e Safina não se ajoelharam.
+E Impêros e Safina não se ajoelharam.
 
 A coisa: "Vocês foram feitos para servir."
 
@@ -20643,15 +20643,15 @@ E o que ia sair dela — e André viu, porque estava a três metros e porque Saf
 
 Era um nome. Era um título. Era a palavra que uma dragoa celestial diz sem pensar quando a coisa que está na frente dela é a coisa que está na frente dela.
 
-E Imperos fechou a mão no braço da irmã.
+E Impêros fechou a mão no braço da irmã.
 
 Não com força. Com precisão.
 
-Imperos: "Não."
+Impêros: "Não."
 
 Safina: "Eu ia só dizer que ele era—"
 
-Imperos: "**NÃO.**"
+Impêros: "**NÃO.**"
 
 E a palavra saiu com tanta autoridade que o ar entre os três vibrou, e as chamas dos pinheiros derretidos se inclinaram para longe dele, e Safina fechou a boca com um estalo de dentes.
 
@@ -20661,19 +20661,19 @@ Devagar.
 
 Com uma coisa no rosto que se parecia, horrivelmente, com decepção.
 
-E Imperos deu um passo à frente. Um só. E falou de um jeito que André nunca tinha ouvido: sem arrogância nenhuma, sem desprezo, sem aquele tédio de professor que ele usava com o mundo inteiro. Falou como um funcionário que lê uma sentença em voz alta sabendo que a sala não vai gostar.
+E Impêros deu um passo à frente. Um só. E falou de um jeito que André nunca tinha ouvido: sem arrogância nenhuma, sem desprezo, sem aquele tédio de professor que ele usava com o mundo inteiro. Falou como um funcionário que lê uma sentença em voz alta sabendo que a sala não vai gostar.
 
-Imperos: "Nós servimos os Três."
+Impêros: "Nós servimos os Três."
 
-Imperos: "Eu fui condenado a servir esta linhagem enquanto ela durar. Ela é a minha sentença, não a minha escolha, e eu a cumpro porque a Régua mediu e mandou."
+Impêros: "Eu fui condenado a servir esta linhagem enquanto ela durar. Ela é a minha sentença, não a minha escolha, e eu a cumpro porque a Régua mediu e mandou."
 
-Imperos: "E a minha irmã serve a divisão dela."
+Impêros: "E a minha irmã serve a divisão dela."
 
-Imperos: "Nenhum dos dois serve o senhor."
+Impêros: "Nenhum dos dois serve o senhor."
 
 E, depois de uma pausa exata, e com uma delicadeza que fez o pelo de André arrepiar mais do que qualquer ameaça:
 
-Imperos: "E nós dois lamentamos."
+Impêros: "E nós dois lamentamos."
 
 A coisa: "..."
 
@@ -20705,7 +20705,7 @@ E aquilo que saiu depois não foi riso, porque ele não ri, porque não tem apar
 
 A coisa: "Bom."
 
-E Imperos e Safina ergueram as mãos juntos.
+E Impêros e Safina ergueram as mãos juntos.
 
 E a cúpula subiu.
 
@@ -20717,9 +20717,9 @@ E, do lado de fora, pela primeira vez em oito minutos, o pinheiro mais próximo 
 
 E André sentiu o preço nos dois.
 
-Sentiu como se sente a respiração de alguém muito perto. Imperos e Safina estavam gastos desde a véspera. Tinham sustentado a cúpula do duelo contra Ishtar com cento e onze magos de quinze guildas pendurados nas mãos deles, e não tinham dormido, e agora estavam puxando do fundo.
+Sentiu como se sente a respiração de alguém muito perto. Impêros e Safina estavam gastos desde a véspera. Tinham sustentado a cúpula do duelo contra Ishtar com cento e onze magos de quinze guildas pendurados nas mãos deles, e não tinham dormido, e agora estavam puxando do fundo.
 
-Imperos: "Isto segura o calor. Não segura ele."
+Impêros: "Isto segura o calor. Não segura ele."
 
 Safina: "E não segura por muito tempo."
 
@@ -20735,7 +20735,7 @@ E André respirou fundo, e o ar entrou quente e saiu mais quente, e ele olhou pa
 
 André: "Vocês não entram."
 
-Imperos: "Mestre—"
+Impêros: "Mestre—"
 
 André: "Vocês. Não. Entram."
 
@@ -23465,17 +23465,17 @@ Não foi um golpe: foi um toque. Depois de vinte e três minutos de pancadaria, 
 
 E ficou ali.
 
-E a luz rubro-negra, no ponto em que a palma tocava, começou a desbotar. O vermelho de Imperos virou rosa, depois branco. O negro de Safina virou cinza, depois transparente.
+E a luz rubro-negra, no ponto em que a palma tocava, começou a desbotar. O vermelho de Impêros virou rosa, depois branco. O negro de Safina virou cinza, depois transparente.
 
 E do ponto branco saiu uma linha fina, como a rachadura num ovo.
 
-Imperos, do lado de fora, com as duas mãos erguidas e os braços tremendo: "Ele está lendo a trama."
+Impêros, do lado de fora, com as duas mãos erguidas e os braços tremendo: "Ele está lendo a trama."
 
 Safina: "Eu sei."
 
-Imperos: "Ele está lendo como quem lê uma carta. Ele sabe onde cada fio foi amarrado."
+Impêros: "Ele está lendo como quem lê uma carta. Ele sabe onde cada fio foi amarrado."
 
-Safina: "Ele sabe porque foi ele que ensinou a amarrar, Imperos."
+Safina: "Ele sabe porque foi ele que ensinou a amarrar, Impêros."
 
 E André, lá dentro, de joelhos, com o poço no lodo e sangue escorrendo dos dois ouvidos, entendeu o que ia acontecer e se levantou.
 
@@ -23497,7 +23497,7 @@ E a cúpula se abriu como uma flor.
 
 Não explodiu: as duas cores trançadas simplesmente se desfizeram em fios, e os fios se soltaram uns dos outros e caíram do céu como fitas de seda sobre a planície, apagando-se antes de tocar o chão.
 
-E Imperos e Safina, do lado de fora, foram jogados para trás pelo refluxo da própria magia, os dois ao mesmo tempo, rolando cinquenta metros pelo capim cinzento.
+E Impêros e Safina, do lado de fora, foram jogados para trás pelo refluxo da própria magia, os dois ao mesmo tempo, rolando cinquenta metros pelo capim cinzento.
 
 E o calor saiu.
 
@@ -23509,19 +23509,19 @@ E mil e duzentas pessoas em Colina Alta, novecentas em Nove Poços e oitocentas 
 
 E a criatura saiu andando pela brecha.
 
-E Imperos e Safina se levantaram do capim.
+E Impêros e Safina se levantaram do capim.
 
 E não fugiram.
 
-Imperos: "Safina."
+Impêros: "Safina."
 
 Safina: "Eu sei."
 
-Imperos: "A nossa sentença é servir a linhagem."
+Impêros: "A nossa sentença é servir a linhagem."
 
 Safina: "A **tua** sentença, irmão. Eu vim por vontade própria e eu quero que fique claro, porque eu vou reclamar disso por duzentos anos se a gente sobreviver."
 
-Imperos: "Anotado."
+Impêros: "Anotado."
 
 E os dois dragões celestiais do Firmamento — um branco como ausência, com chifres retos varridos para trás; uma cinza com filigrana de ouro e olhos que não piscam — andaram para dentro da planície queimada, lado a lado, na direção da coisa que tinha sido o primeiro de todos eles.
 
@@ -23533,7 +23533,7 @@ E disse, com a voz arrastada, o que foi a coisa mais próxima de afeto que aquel
 
 A coisa: "Vocês vieram."
 
-Imperos: "Viemos."
+Impêros: "Viemos."
 
 A coisa: "Bom."
 
@@ -23541,7 +23541,7 @@ E as fitas de membrana se ergueram do chão.
 
 E, a partir daquele instante, o que aconteceu na Faixa Norte deixou de ser uma luta e passou a ser uma coisa para a qual a língua de Fiore não tem substantivo.
 
-Porque Imperos, o Terror Branco, abriu as asas.
+Porque Impêros, o Terror Branco, abriu as asas.
 
 E as asas dele não abrem o ar: abrem dimensões — e o céu por cima da planície rachou em três lugares, e por cada racha desceu uma coluna de luz branca que não é cor, é ausência, e onde as colunas tocaram o chão a matéria parou de ter opinião sobre o próprio formato.
 
@@ -23559,7 +23559,7 @@ Noventa segundos exatos.
 
 Foram os noventa segundos mais bonitos da história militar de Ishgar e ninguém vai escrever sobre eles, porque as quatro pessoas capazes de descrever aquilo com precisão são um dragão, uma dragoa, um homem que vai mentir sobre isso pelo resto da vida, e uma coisa que não conta nada a ninguém.
 
-Correntes amarrando os pulsos. Luz branca desfazendo o solo sob os pés. Uma dragoa cinzenta mergulhando dos quatrocentos metros e arrancando um coto de asa inteiro com as garras. André entrando por baixo, sem encostar no corpo, plantando quatro círculos no chão e erguendo uma jaula de metal roxo por dentro da qual Imperos derramou uma coisa que fez o ar ficar branco.
+Correntes amarrando os pulsos. Luz branca desfazendo o solo sob os pés. Uma dragoa cinzenta mergulhando dos quatrocentos metros e arrancando um coto de asa inteiro com as garras. André entrando por baixo, sem encostar no corpo, plantando quatro círculos no chão e erguendo uma jaula de metal roxo por dentro da qual Impêros derramou uma coisa que fez o ar ficar branco.
 
 Noventa segundos.
 
@@ -23583,15 +23583,15 @@ E não levantou.
 
 Não morreu: foi **imobilizada**, que é uma coisa pior de assistir, porque ela continuou se debatendo dentro daquilo, com as asas presas contra o corpo e as garras rasgando o vermelho e o vermelho se refazendo, e cada vez que ela abria a boca para cuspir alguma coisa uma fita entrava e fechava.
 
-Imperos: "**SAFINA!**"
+Impêros: "**SAFINA!**"
 
-E Imperos, o Terror Branco, cometeu naquele instante o único erro tático de uma carreira de quinhentos anos.
+E Impêros, o Terror Branco, cometeu naquele instante o único erro tático de uma carreira de quinhentos anos.
 
 Ele foi.
 
 E a criatura estava esperando.
 
-E a mão de cinco dedos que alcança abaixo do joelho pegou o dragão branco pelo pescoço no ar, e virou, e desceu — e cravou Imperos de cara no basalto com uma força que abriu um sulco de sessenta metros.
+E a mão de cinco dedos que alcança abaixo do joelho pegou o dragão branco pelo pescoço no ar, e virou, e desceu — e cravou Impêros de cara no basalto com uma força que abriu um sulco de sessenta metros.
 
 E depois pisou.
 
@@ -23599,13 +23599,13 @@ Uma vez.
 
 E se ouviu, de Colina Alta, o som de uma coisa muito grande quebrando dentro de outra coisa muito grande.
 
-E o sangue de Imperos, que é branco, escorreu pela rocha e continuou brilhando depois de escorrer.
+E o sangue de Impêros, que é branco, escorreu pela rocha e continuou brilhando depois de escorrer.
 
-Imperos: "..."
+Impêros: "..."
 
-Imperos: "Mestre."
+Impêros: "Mestre."
 
-Imperos: "Corra."
+Impêros: "Corra."
 
 E André Silverseal — dois por cento de reserva, ombro deslocado, três costelas rachadas, com uma dragoa celestial imobilizada a cinquenta metros e um dragão celestial cuspindo sangue branco a trinta — fez a conta e a conta não fechou por nenhum caminho.
 
