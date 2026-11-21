@@ -10815,7 +10815,7 @@ Sting: "**Ah.**"
 
 ---
 
-*Rufus Lore e Levy McGarden não puderam se encontrar, porque Levy McGarden está em Magnólia com sete meses e três semanas.*
+*Rufus Lore e Levy McGarden não puderam se encontrar, porque Levy McGarden está em Magnólia com cinco meses e meio.*
 
 *E Rufus Lore perguntou por ela.*
 
@@ -17639,17 +17639,17 @@ Lyon: "**E isso é infinitamente melhor, seu idiota, e você não faz ideia.**"
 
 *E, às catorze, no Distrito Norte, aconteceu a coisa mais improvável do dia.*
 
-*Porque Wendy Marvell encontrou Chelia Blendy.*
+*Porque Wendy Marvell encontrou Sherria Blendy.*
 
 *E as duas gritaram na rua.*
 
-Wendy: "**CHELIA!**"
+Wendy: "**SHERRIA!**"
 
-Chelia: "**WENDY!**"
+Sherria: "**WENDY!**"
 
 Wendy: "**AAAAH!**"
 
-Chelia: "**AAAAAH!**"
+Sherria: "**AAAAAH!**"
 
 Carla: "..."
 
@@ -17663,29 +17663,29 @@ Carla: "**Isso vai durar oito horas.**"
 
 *E, no meio daquilo, aconteceu uma coisa séria.*
 
-*Porque Chelia Blendy perdeu a Magia de Matadora de Deuses do Céu salvando Wendy Marvell, e nunca se arrependeu, e nunca cobrou, e nunca mencionou.*
+*Porque Sherria Blendy perdeu a Magia de Matadora de Deuses do Céu salvando Wendy Marvell, e nunca se arrependeu, e nunca cobrou, e nunca mencionou.*
 
 *E, às dezesseis e vinte, sentadas na beira de uma fonte, Wendy Marvell disse:*
 
 Wendy: "..."
 
-Wendy: "**Chelia.**"
+Wendy: "**Sherria.**"
 
-Chelia: "Hm?"
+Sherria: "Hm?"
 
 Wendy: "**Eu tenho uma coisa pra te dizer e eu tô com medo há dois anos.**"
 
 *Silêncio na fonte.*
 
-Chelia: "..."
+Sherria: "..."
 
-Chelia: "**Fala.**"
+Sherria: "**Fala.**"
 
 *Pausa.*
 
 Wendy: "**Eu tenho pesquisado.**"
 
-Chelia: "**Sobre o quê?**"
+Sherria: "**Sobre o quê?**"
 
 *Silêncio absoluto.*
 
@@ -17697,11 +17697,11 @@ Wendy: "**Sobre como devolver a tua magia.**"
 
 *Silêncio na fonte do Distrito Norte.*
 
-Chelia: "..."
+Sherria: "..."
 
 *Pausa.*
 
-Chelia: "**Wendy—**"
+Sherria: "**Wendy—**"
 
 Wendy: "**Eu sei que você diz que não se arrepende.**"
 
@@ -17711,7 +17711,7 @@ Wendy: "**E eu sei que é verdade. Eu acredito em você.**"
 
 *Pausa.*
 
-Wendy: "**E eu não consigo dormir com aquilo, Chelia.**"
+Wendy: "**E eu não consigo dormir com aquilo, Sherria.**"
 
 *Silêncio absoluto.*
 
@@ -17735,37 +17735,37 @@ Wendy: "**E eu queria te dizer que eu tentei.**"
 
 *Silêncio absoluto na fonte.*
 
-*E Chelia Blendy ficou uns três segundos calada.*
+*E Sherria Blendy ficou uns três segundos calada.*
 
 *E depois abraçou aquela menina.*
 
-Chelia: "..."
+Sherria: "..."
 
-Chelia: "**Wendy.**"
+Sherria: "**Wendy.**"
 
 Wendy: "..."
 
-Chelia: "**Eu curo gente.**"
+Sherria: "**Eu curo gente.**"
 
 *Pausa.*
 
-Chelia: "**Eu curei quarenta e uma pessoas este ano. Eu sou a segunda melhor curandeira de Fiore e eu tenho quinze anos.**"
+Sherria: "**Eu curei quarenta e uma pessoas este ano. Eu sou a segunda melhor curandeira de Fiore e eu tenho quinze anos.**"
 
 *Pausa.*
 
-Chelia: "**E eu perdi a parte que **matava**.**"
+Sherria: "**E eu perdi a parte que **matava**.**"
 
 *Silêncio na fonte do Distrito Norte.*
 
-Chelia: "**E, sinceramente?**"
+Sherria: "**E, sinceramente?**"
 
 *Pausa.*
 
-Chelia: "**Eu não sinto falta.**"
+Sherria: "**Eu não sinto falta.**"
 
 *Pausa.*
 
-Chelia: "**Nem um pouco.**"
+Sherria: "**Nem um pouco.**"
 
 ---
 
@@ -17775,21 +17775,21 @@ Wendy: "..."
 
 Wendy: "**Sério?**"
 
-Chelia: "**Sério, Wendy.**"
+Sherria: "**Sério, Wendy.**"
 
 *Pausa.*
 
 *E ela riu.*
 
-Chelia: "**Você tem uma magia que mata deuses e uma magia que salva gente, e você usa a que salva gente noventa por cento do tempo.**"
+Sherria: "**Você tem uma magia que mata deuses e uma magia que salva gente, e você usa a que salva gente noventa por cento do tempo.**"
 
 *Pausa.*
 
-Chelia: "**E eu tenho só a que salva.**"
+Sherria: "**E eu tenho só a que salva.**"
 
 *Pausa.*
 
-Chelia: "**E eu tô ótima.**"
+Sherria: "**E eu tô ótima.**"
 
 ---
 
@@ -21217,9 +21217,9 @@ Lyon: *a três metros* "..."
 
 Lyon: "**Ele acabou de convencer o Mago Santo Nº 5 a comprar uma casa.**"
 
-Chelia: "**Ele parece muito convincente!**"
+Sherria: "**Ele parece muito convincente!**"
 
-Lyon: "**Chelia, ele está sentado no chão.**"
+Lyon: "**Sherria, ele está sentado no chão.**"
 
 ---
 
@@ -32573,7 +32573,7 @@ E, entre eles:
 
 **Orga Nanagear** e **Rogue Cheney**, de Sabertooth.
 
-**Yuka Suzuki** e **Chelia Blendy**, de Lamia Scale.
+**Yuka Suzuki** e **Sherria Blendy**, de Lamia Scale.
 
 E vinte outros.
 

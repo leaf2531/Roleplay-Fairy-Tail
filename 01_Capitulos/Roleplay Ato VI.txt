@@ -5534,7 +5534,7 @@ E, na galeria de Lamia Scale, dezenove pessoas ficaram de pé.
 
 Sherry: "**LYOOOOOON!**"
 
-Chelia: "**ELE CONSEGUIU!**"
+Sherria: "**ELE CONSEGUIU!**"
 
 Jura: "..."
 
@@ -5542,7 +5542,7 @@ Jura: "..."
 
 Jura: "Não."
 
-Chelia: "**MESTRE?!**"
+Sherria: "**MESTRE?!**"
 
 Jura: "..."
 
@@ -6093,25 +6093,25 @@ Kagura: "**EU NÃO ESTOU VERMELHA!**"
 
 E na galeria de **Lamia Scale** não havia riso nenhum.
 
-Porque Lyon Vastia estava deitado num banco corrido, de bruços, com onze marcas de queimadura de plasma tratadas por Chelia Blendy nas costas e no ombro esquerdo, e porque ele estava acordado.
+Porque Lyon Vastia estava deitado num banco corrido, de bruços, com onze marcas de queimadura de plasma tratadas por Sherria Blendy nas costas e no ombro esquerdo, e porque ele estava acordado.
 
 Lyon: "..."
 
-Lyon: "Chelia."
+Lyon: "Sherria."
 
-Chelia: "Não fala, Lyon-san."
+Sherria: "Não fala, Lyon-san."
 
 Lyon: "..."
 
 Lyon: "Eu perdi."
 
-Chelia: "Eu sei."
+Sherria: "Eu sei."
 
 Lyon: "..."
 
 Lyon: "Eu construí nove torres."
 
-Chelia: "**Eu sei**, Lyon-san."
+Sherria: "**Eu sei**, Lyon-san."
 
 Lyon: "..."
 
@@ -7523,7 +7523,7 @@ Wakaba: "Eu tô com medo."
 
 Macao: "**EU TAMBÉM TÔ, WAKABA!**"
 
-E, sentada na cadeira mais confortável daquele salão, com sete meses e três semanas de barriga e uma manta nas pernas, Levy McGarden estava com um caderno aberto no colo e uma pena na mão.
+E, sentada na cadeira mais confortável daquele salão, com cinco meses e meio de barriga e uma manta nas pernas, Levy McGarden estava com um caderno aberto no colo e uma pena na mão.
 
 Gajeel: "..."
 
@@ -8503,9 +8503,9 @@ Lyon: "..."
 
 Lyon: "Ah, então **eles todos** são assim."
 
-Chelia: "Lyon-san, fica quieto."
+Sherria: "Lyon-san, fica quieto."
 
-Lyon: "**A OUTRA DISSE A MESMA COISA PRA MIM, CHELIA!**"
+Lyon: "**A OUTRA DISSE A MESMA COISA PRA MIM, SHERRIA!**"
 
 Lyon: "***FAZ DE NOVO!***"
 
@@ -13520,7 +13520,7 @@ Porque, naquele instante, magos de quinze guildas saltaram das próprias galeria
 
 **Jura Neekis**, do anel sul, com uma velocidade que ninguém esperava de um homem daquele tamanho.
 
-**Sherry Blendy. Yuka Suzuki. Chelia Blendy.**
+**Sherry Blendy. Yuka Suzuki. Sherria Blendy.**
 
 **Ichiya Vandalay Kotobuki**, gritando *"PARFUM!"*, seguido de Hibiki, Ren, Eve e Jenny Realight.
 
@@ -13638,7 +13638,7 @@ Wakaba: "..."
 
 Wakaba: "Eu não sei, Macao."
 
-E Levy McGarden, com sete meses e três semanas de barriga e uma pena parada no ar sobre um caderno, disse:
+E Levy McGarden, com cinco meses e meio de barriga e uma pena parada no ar sobre um caderno, disse:
 
 Levy: "..."
 
