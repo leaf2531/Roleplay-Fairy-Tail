@@ -14,7 +14,7 @@
 
 | | |
 |---|---|
-| **Nome** | Vexrathan. *Vex* e *Vexinho* para Eris; *o inquilino* para quem sabe. |
+| **Nome** | Vexrathan. *Vex* e *Vexinho* para Eris; *O Cavaleiro sorridente* Como é conhecido por outros dêmonios. |
 | **Natureza** | **Cavaleiro Demoníaco de Classe C** de Kharoth, da corte de **Vorgath**, o Déspota, Príncipe da Carnificina. |
 | **A anomalia** | Respondia **diretamente a um Príncipe, sem Lorde acima**. Tinha poder e dádivas de Lorde e patente de Cavaleiro. Nunca foi elevado: *"uma ferramenta boa demais para ser promovida"*. O assento que deveria ter sido dele é de **Skarn'vhaal, o Selo de Vorgath**, elevado três séculos depois, medíocre e ciente disso. |
 | **Estado** | **Apagado do livro pelo Príncipe**. Sem vínculo com Kharoth nem com Vorgath. **Sem mestre**, pela primeira vez na existência, e ele vale mais para si mesmo assim do que valia inteiro. **Vive e morre com o hospedeiro.** |
@@ -128,11 +128,11 @@
 ## V — RELAÇÕES
 | Pessoa | |
 |---|---|
-| **André** | Sociedade. O garoto. Morre junto. Em X799 ficou com medo dele. |
+| **André** | Sociedade. O garoto. Morre junto. Em X799 tem um respeito sincero por andré, mas dificilmente demonstra. |
 | **Eris** | Seis anos de conversa, a *cuba*. Saudade dela. Ela acordou no silêncio. |
 | **Katarina** | Apego que ele nega. |
-| **Vorgath** | O dono que o apagou. Jurou extinguir a Casa Silverseal. |
-| **Skarn'vhaal** | O medíocre que tem o assento dele. |
+| **Vorgath** | O dono que o apagou. Medo, ódio. |
+| **Skarn'vhaal** | O medíocre que Tomou o lugar dele. |
 | **Imperos** | O lagarto. Vinte anos de desprezo mútuo e uma conversa que ninguém ouviu na Faixa Sul. |
 | **Safina** | A cinza, que desenhou a válvula e o chamou de veterano. |
 | **Irene** | Leu nela o rosto do Príncipe que ele serviu. |
