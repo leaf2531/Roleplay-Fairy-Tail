@@ -760,7 +760,7 @@ Erza: "Seja lá qual for a missão. Seja lá o que aquelas três coisas te manda
 
 *Pausa.*
 
-Erza: "**E o Imperos era irmão dele.**"
+Erza: "**E o Impêros era irmão dele.**"
 
 ---
 
@@ -1678,7 +1678,7 @@ Erza: "**Não fala que não dá.**"
 
 *Pausa.*
 
-Erza: "Você não sabe. A Safina não sabe. O Imperos não sabe, e ele tem dez mil anos e é o cara mais informado deste mundo."
+Erza: "Você não sabe. A Safina não sabe. O Impêros não sabe, e ele tem dez mil anos e é o cara mais informado deste mundo."
 
 *Pausa.*
 
@@ -3526,7 +3526,7 @@ Lisanna: "**Eu sei! Eu guardei essa piada por dois anos!**"
 
 *Pausa.*
 
-*(E eu sei disso desde a floresta, quando o Imperos e a coisa dentro dele **gritaram a mesma palavra ao mesmo tempo** olhando para mim, e onze pessoas ouviram, e ninguém entendeu, e ninguém nunca me explicou.)*
+*(E eu sei disso desde a floresta, quando o Impêros e a coisa dentro dele **gritaram a mesma palavra ao mesmo tempo** olhando para mim, e onze pessoas ouviram, e ninguém entendeu, e ninguém nunca me explicou.)*
 
 *Pausa.*
 
@@ -5660,7 +5660,7 @@ Makarov: "..."
 
 *E ele olhou para ela.*
 
-*E é preciso registrar isso, porque Makarov Dreyar tem noventa e sete anos e enterrou onze pessoas em cinquenta anos e não é um homem burro:*
+*E é preciso registrar isso, porque Makarov Dreyar tem noventa anos e enterrou onze pessoas em cinquenta anos e não é um homem burro:*
 
 Makarov: "**Minha filha.**"
 
@@ -10735,7 +10735,7 @@ Makarov: "**A gente é igual.**"
 
 Sting: "**A GENTE NÃO É IGUAL, VELHO! EU TENHO VINTE E UM ANOS!**"
 
-Makarov: "**E eu tenho noventa e sete e eu adotei duzentas pessoas quebradas.**"
+Makarov: "**E eu tenho noventa anos e eu adotei duzentas pessoas quebradas.**"
 
 *Pausa.*
 
@@ -10815,7 +10815,7 @@ Sting: "**Ah.**"
 
 ---
 
-*Rufus Lore e Levy McGarden não puderam se encontrar, porque Levy McGarden está em Magnólia com sete meses e três semanas.*
+*Rufus Lore e Levy McGarden não puderam se encontrar, porque Levy McGarden está em Magnólia com cinco meses e meio.*
 
 *E Rufus Lore perguntou por ela.*
 
@@ -13431,7 +13431,7 @@ Erza: "**Nem uma coisa. Nem um momento. Nem uma vez em treze anos.**"
 
 *Pausa.*
 
-Erza: "**E eu fui gentil com o senhor num jantar de mestres em X780 porque eu tinha oito anos de guilda e porque o Mestre me mandou ser educada com os convidados.**"
+Erza: "**E eu fui gentil com o senhor num jantar de mestres em X780 porque eu tinha três anos de guilda e porque o Mestre me mandou ser educada com os convidados.**"
 
 *Silêncio absoluto na Avenida das Nove Flores.*
 
@@ -16799,7 +16799,7 @@ Makarov: "**E eu não tenho absolutamente nada com que impedir aquela mulher.**"
 
 *Silêncio.*
 
-Makarov: "**Eu tenho noventa e sete anos, um braço na tipoia e uma dívida de quatro mil e duzentas Coroas.**"
+Makarov: "**Eu tenho noventa anos, um braço na tipoia e uma dívida de quatro mil e duzentas Coroas.**"
 
 *Pausa.*
 
@@ -17639,17 +17639,17 @@ Lyon: "**E isso é infinitamente melhor, seu idiota, e você não faz ideia.**"
 
 *E, às catorze, no Distrito Norte, aconteceu a coisa mais improvável do dia.*
 
-*Porque Wendy Marvell encontrou Chelia Blendy.*
+*Porque Wendy Marvell encontrou Sherria Blendy.*
 
 *E as duas gritaram na rua.*
 
-Wendy: "**CHELIA!**"
+Wendy: "**SHERRIA!**"
 
-Chelia: "**WENDY!**"
+Sherria: "**WENDY!**"
 
 Wendy: "**AAAAH!**"
 
-Chelia: "**AAAAAH!**"
+Sherria: "**AAAAAH!**"
 
 Carla: "..."
 
@@ -17663,29 +17663,29 @@ Carla: "**Isso vai durar oito horas.**"
 
 *E, no meio daquilo, aconteceu uma coisa séria.*
 
-*Porque Chelia Blendy perdeu a Magia de Matadora de Deuses do Céu salvando Wendy Marvell, e nunca se arrependeu, e nunca cobrou, e nunca mencionou.*
+*Porque Sherria Blendy perdeu a Magia de Matadora de Deuses do Céu salvando Wendy Marvell, e nunca se arrependeu, e nunca cobrou, e nunca mencionou.*
 
 *E, às dezesseis e vinte, sentadas na beira de uma fonte, Wendy Marvell disse:*
 
 Wendy: "..."
 
-Wendy: "**Chelia.**"
+Wendy: "**Sherria.**"
 
-Chelia: "Hm?"
+Sherria: "Hm?"
 
 Wendy: "**Eu tenho uma coisa pra te dizer e eu tô com medo há dois anos.**"
 
 *Silêncio na fonte.*
 
-Chelia: "..."
+Sherria: "..."
 
-Chelia: "**Fala.**"
+Sherria: "**Fala.**"
 
 *Pausa.*
 
 Wendy: "**Eu tenho pesquisado.**"
 
-Chelia: "**Sobre o quê?**"
+Sherria: "**Sobre o quê?**"
 
 *Silêncio absoluto.*
 
@@ -17697,11 +17697,11 @@ Wendy: "**Sobre como devolver a tua magia.**"
 
 *Silêncio na fonte do Distrito Norte.*
 
-Chelia: "..."
+Sherria: "..."
 
 *Pausa.*
 
-Chelia: "**Wendy—**"
+Sherria: "**Wendy—**"
 
 Wendy: "**Eu sei que você diz que não se arrepende.**"
 
@@ -17711,7 +17711,7 @@ Wendy: "**E eu sei que é verdade. Eu acredito em você.**"
 
 *Pausa.*
 
-Wendy: "**E eu não consigo dormir com aquilo, Chelia.**"
+Wendy: "**E eu não consigo dormir com aquilo, Sherria.**"
 
 *Silêncio absoluto.*
 
@@ -17735,37 +17735,37 @@ Wendy: "**E eu queria te dizer que eu tentei.**"
 
 *Silêncio absoluto na fonte.*
 
-*E Chelia Blendy ficou uns três segundos calada.*
+*E Sherria Blendy ficou uns três segundos calada.*
 
 *E depois abraçou aquela menina.*
 
-Chelia: "..."
+Sherria: "..."
 
-Chelia: "**Wendy.**"
+Sherria: "**Wendy.**"
 
 Wendy: "..."
 
-Chelia: "**Eu curo gente.**"
+Sherria: "**Eu curo gente.**"
 
 *Pausa.*
 
-Chelia: "**Eu curei quarenta e uma pessoas este ano. Eu sou a segunda melhor curandeira de Fiore e eu tenho quinze anos.**"
+Sherria: "**Eu curei quarenta e uma pessoas este ano. Eu sou a segunda melhor curandeira de Fiore e eu tenho quinze anos.**"
 
 *Pausa.*
 
-Chelia: "**E eu perdi a parte que **matava**.**"
+Sherria: "**E eu perdi a parte que **matava**.**"
 
 *Silêncio na fonte do Distrito Norte.*
 
-Chelia: "**E, sinceramente?**"
+Sherria: "**E, sinceramente?**"
 
 *Pausa.*
 
-Chelia: "**Eu não sinto falta.**"
+Sherria: "**Eu não sinto falta.**"
 
 *Pausa.*
 
-Chelia: "**Nem um pouco.**"
+Sherria: "**Nem um pouco.**"
 
 ---
 
@@ -17775,21 +17775,21 @@ Wendy: "..."
 
 Wendy: "**Sério?**"
 
-Chelia: "**Sério, Wendy.**"
+Sherria: "**Sério, Wendy.**"
 
 *Pausa.*
 
 *E ela riu.*
 
-Chelia: "**Você tem uma magia que mata deuses e uma magia que salva gente, e você usa a que salva gente noventa por cento do tempo.**"
+Sherria: "**Você tem uma magia que mata deuses e uma magia que salva gente, e você usa a que salva gente noventa por cento do tempo.**"
 
 *Pausa.*
 
-Chelia: "**E eu tenho só a que salva.**"
+Sherria: "**E eu tenho só a que salva.**"
 
 *Pausa.*
 
-Chelia: "**E eu tô ótima.**"
+Sherria: "**E eu tô ótima.**"
 
 ---
 
@@ -18963,7 +18963,7 @@ Erza: "..."
 
 Erza: "**Como é?**"
 
-Ishtar: "**Um menino de oito anos lhe deu aquele nome num navio, senhorita Scarlet.**"
+Ishtar: "**Um menino lhe deu aquele nome numa cela da Torre, senhorita Scarlet. A senhorita tinha oito anos.**"
 
 *Pausa.*
 
@@ -21217,9 +21217,9 @@ Lyon: *a três metros* "..."
 
 Lyon: "**Ele acabou de convencer o Mago Santo Nº 5 a comprar uma casa.**"
 
-Chelia: "**Ele parece muito convincente!**"
+Sherria: "**Ele parece muito convincente!**"
 
-Lyon: "**Chelia, ele está sentado no chão.**"
+Lyon: "**Sherria, ele está sentado no chão.**"
 
 ---
 
@@ -24459,7 +24459,7 @@ E, é preciso registrar exatamente o que Erza Scarlet fez naqueles dois segundos
 
 Erza: "..."
 
-Erza: "**A do Imperos.**"
+Erza: "**A do Impêros.**"
 
 Safina: "**A do meu irmão. Sim.**"
 
@@ -25789,7 +25789,7 @@ Makarov: "**Eu acredito.**"
 
 *Pausa.*
 
-Makarov: "**E eu tenho noventa e sete anos, moleque, e eu vou dizer a coisa que eu não devia dizer.**"
+Makarov: "**E eu tenho noventa anos, moleque, e eu vou dizer a coisa que eu não devia dizer.**"
 
 *Pausa.*
 
@@ -26547,27 +26547,27 @@ Traço por traço, no ar, sem pressa.
 
 ---
 
-Imperos: "..."
+Impêros: "..."
 
 *Pausa.*
 
-Imperos: "**Você está atrasado.**"
+Impêros: "**Você está atrasado.**"
 
 André: "**Velho.**"
 
-Imperos: "**Vinte e um minutos.**"
+Impêros: "**Vinte e um minutos.**"
 
 André: "**Eu tive uma manhã complicada.**"
 
-Imperos: "..."
+Impêros: "..."
 
 *Pausa.*
 
-Imperos: "**Eu sei.**"
+Impêros: "**Eu sei.**"
 
 *Pausa.*
 
-Imperos: "**A minha irmã relatou.**"
+Impêros: "**A minha irmã relatou.**"
 
 André: "**SAFINA!**"
 
@@ -26583,51 +26583,51 @@ Ishtar: "**HAHAHAHAHA!**"
 
 ---
 
-E Imperos levantou-se.
+E Impêros levantou-se.
 
 E, é preciso registrar, ele fez uma coisa que ninguém esperava: pôs a mão no ombro daquele rapaz.
 
-Imperos: "..."
+Impêros: "..."
 
-Imperos: "**Deite-se no centro.**"
+Impêros: "**Deite-se no centro.**"
 
 André: "**Velho, o que é que isso vai fazer comigo?**"
 
-Imperos: "..."
+Impêros: "..."
 
 *Pausa.*
 
-Imperos: "**Vou explicar, e vou explicar uma vez, e depois nós começamos.**"
+Impêros: "**Vou explicar, e vou explicar uma vez, e depois nós começamos.**"
 
 ---
 
-Imperos: "A armadura dracônica não é dada."
+Impêros: "A armadura dracônica não é dada."
 
 *Pausa.*
 
-Imperos: "**É transferida.**"
+Impêros: "**É transferida.**"
 
 *Pausa.*
 
-Imperos: "Eu carrego dez mil anos de reserva num corpo do tamanho de um falcão. Não porque eu queira: porque não há para onde gastar."
+Impêros: "Eu carrego dez mil anos de reserva num corpo do tamanho de um falcão. Não porque eu queira: porque não há para onde gastar."
 
 *Pausa.*
 
-Imperos: "**E, do que resta em mim, eu vou colocar uma parte em você.**"
+Impêros: "**E, do que resta em mim, eu vou colocar uma parte em você.**"
 
 Silêncio na sala do lado oeste.
 
 André: "**Quanto?**"
 
-Imperos: "..."
+Impêros: "..."
 
 *Pausa.*
 
-Imperos: "**O suficiente.**"
+Impêros: "**O suficiente.**"
 
 André: "**Velho.**"
 
-Imperos: "**Não é da sua conta, André.**"
+Impêros: "**Não é da sua conta, André.**"
 
 ---
 
@@ -26641,35 +26641,35 @@ E André Bloodraven percebeu.
 
 ---
 
-Imperos: "E a armadura não vai aparecer hoje."
+Impêros: "E a armadura não vai aparecer hoje."
 
 *Pausa.*
 
-Imperos: "Ela vai ficar dormente, presa ao primeiro anel."
+Impêros: "Ela vai ficar dormente, presa ao primeiro anel."
 
 *Pausa.*
 
-Imperos: "**E, no dia em que você abrir aquele anel — e você vai abrir —, ela veste sozinha, no mesmo instante, sem gesto e sem palavra.**"
+Impêros: "**E, no dia em que você abrir aquele anel — e você vai abrir —, ela veste sozinha, no mesmo instante, sem gesto e sem palavra.**"
 
 *Pausa.*
 
-Imperos: "**E vai segurar o que sai.**"
+Impêros: "**E vai segurar o que sai.**"
 
 Silêncio.
 
-Imperos: "**Não é uma vantagem, André. É uma coleira.**"
+Impêros: "**Não é uma vantagem, André. É uma coleira.**"
 
 *Pausa.*
 
-Imperos: "**Ela existe para impedir que você derreta a si mesmo de dentro para fora do jeito que você derreteu na quarta-feira.**"
+Impêros: "**Ela existe para impedir que você derreta a si mesmo de dentro para fora do jeito que você derreteu na quarta-feira.**"
 
 *Pausa.*
 
-Imperos: "**E, um dia, quando você aprender a conter aquilo sozinho, ela deixa de ser necessária.**"
+Impêros: "**E, um dia, quando você aprender a conter aquilo sozinho, ela deixa de ser necessária.**"
 
 *Pausa.*
 
-Imperos: "**E aquele dia está a décadas daqui.**"
+Impêros: "**E aquele dia está a décadas daqui.**"
 
 ---
 
@@ -26783,17 +26783,17 @@ E, sem pensar, sem gesto e sem palavra, abriu quatrocentos círculos roxos.
 
 E as correntes desceram e fecharam num casulo de nove metros em torno daquele corpo, elo sobre elo, três camadas, com o calor batendo por dentro.
 
-Ishtar: "**IMPEROS!**"
+Ishtar: "**IMPÊROS!**"
 
-Imperos: "**Não interrompa.**"
+Impêros: "**Não interrompa.**"
 
 Ishtar: "**ELE ESTÁ QUEIMANDO!**"
 
-Imperos: "**Eu sei.**"
+Impêros: "**Eu sei.**"
 
 *Pausa.*
 
-Imperos: "**Segure. Vinte minutos.**"
+Impêros: "**Segure. Vinte minutos.**"
 
 ---
 
@@ -26829,7 +26829,7 @@ Safina: "**E ainda faltam duas.**"
 
 Ishtar: "**EU SEI QUE FALTAM DUAS!**"
 
-Imperos: "**Ela sabe, irmã. Eu já disse a ela.**"
+Impêros: "**Ela sabe, irmã. Eu já disse a ela.**"
 
 Ishtar: "**E EU MUDEI DE ASSUNTO NAQUELE DIA E EU VOU MUDAR DE ASSUNTO DE NOVO!**"
 
@@ -26837,15 +26837,15 @@ Safina: "**HAHAHA.**"
 
 ---
 
-E, no décimo quarto minuto, Imperos disse:
+E, no décimo quarto minuto, Impêros disse:
 
-Imperos: "Senhorita Silverseal."
+Impêros: "Senhorita Silverseal."
 
 Ishtar: "..."
 
 Ishtar: "**Sim?**"
 
-Imperos: "**A senhorita chorou.**"
+Impêros: "**A senhorita chorou.**"
 
 Silêncio na sala do lado oeste.
 
@@ -26853,23 +26853,23 @@ Ishtar: "..."
 
 Ishtar: "**Eu não chorei.**"
 
-Imperos: "**Aos três minutos e nove segundos, quando o teto abriu.**"
+Impêros: "**Aos três minutos e nove segundos, quando o teto abriu.**"
 
 *Pausa.*
 
-Imperos: "**Eu registrei.**"
+Impêros: "**Eu registrei.**"
 
 Ishtar: "**Isso é constrangedor.**"
 
-Imperos: "..."
+Impêros: "..."
 
 *Pausa.*
 
-Imperos: "**Não é.**"
+Impêros: "**Não é.**"
 
 *Pausa.*
 
-Imperos: "**Aquilo é a coisa mais bonita que existe, e eu vejo há dez mil anos, e eu ainda paro.**"
+Impêros: "**Aquilo é a coisa mais bonita que existe, e eu vejo há dez mil anos, e eu ainda paro.**"
 
 ---
 
@@ -26929,7 +26929,7 @@ Ishtar: "**Prateada.**"
 
 Safina: "**Vermelha.**"
 
-Imperos: "**Preta.**"
+Impêros: "**Preta.**"
 
 Silêncio absoluto na sala do lado oeste do último andar do Hotel Vermelho.
 
@@ -26961,25 +26961,25 @@ Safina: "**Eu leio desejo, mestre. É o meu ofício.**"
 
 ---
 
-E Imperos não disse nada por uns quatro segundos.
+E Impêros não disse nada por uns quatro segundos.
 
-Imperos: "..."
+Impêros: "..."
 
 *Pausa.*
 
-Imperos: "**Preta.**"
+Impêros: "**Preta.**"
 
 André: "**Velho, por quê?**"
 
-Imperos: "..."
+Impêros: "..."
 
 *Pausa.*
 
-Imperos: "**Porque eu sei o que mora dentro de você.**"
+Impêros: "**Porque eu sei o que mora dentro de você.**"
 
 Silêncio absoluto na sala do lado oeste.
 
-Imperos: "**E ele não vai deixar aquela armadura sair com a cor de mais ninguém.**"
+Impêros: "**E ele não vai deixar aquela armadura sair com a cor de mais ninguém.**"
 
 ---
 
@@ -28767,9 +28767,9 @@ Eris: (...)
 
 ((ESTADO — Cap. XLIII · 20 de novembro de X793 · Crocus
 
-**Ethernano:** André — reserva cheia. O ritual não consumiu dele: consumiu de Imperos. Ishtar sustentou quatrocentos círculos por vinte e dois minutos e está em cerca de dois terços.
+**Ethernano:** André — reserva cheia. O ritual não consumiu dele: consumiu de Impêros. Ishtar sustentou quatrocentos círculos por vinte e dois minutos e está em cerca de dois terços.
 
-**Selos:** seis anéis, invisíveis, passivos. Primeiro anel agora **acoplado a uma Armadura Dracônica dormente**, transferida por Imperos às quinze e cinquenta. Ativa sozinha no instante em que o primeiro anel abrir. Cor desconhecida — Ishtar aposta prateada, Safina aposta vermelha, Imperos aposta preta.
+**Selos:** seis anéis, invisíveis, passivos. Primeiro anel agora **acoplado a uma Armadura Dracônica dormente**, transferida por Impêros às quinze e cinquenta. Ativa sozinha no instante em que o primeiro anel abrir. Cor desconhecida — Ishtar aposta prateada, Safina aposta vermelha, Impêros aposta preta.
 
 **Controle de força:** estável. Amassou o revestimento de um elevador do Hotel Vermelho por ciúme (não percebeu na hora). Arrancou dois fechos do próprio casaco sem querer não — foi a Erza.
 
@@ -28789,7 +28789,7 @@ Eris: (...)
 — **Erza × Mirajane:** **amizade rompida.** Treze anos. Palavras usadas: *vadia*, *você não merece ele*, *você não é a mulher que eu achava que você era*. Nenhuma das duas contou a ninguém o motivo. A guilda inteira notou.
 — **Makarov:** conversa mais dura que já tiveram. O velho responsabilizou André pela estrutura, não pela moral. Pediu uma coisa só: *no dia em que acontecer, conta pra ela antes*.
 — **Ishtar:** irmandade consolidada, com uma camada nova e não resolvida — ela não desmentiu.
-— **Imperos:** deu reserva sem que ninguém pedisse. Chamou André pelo nome, não de mestre. Recusou dizer quanto.
+— **Impêros:** deu reserva sem que ninguém pedisse. Chamou André pelo nome, não de mestre. Recusou dizer quanto.
 — **Safina:** revelou a escala (André com o primeiro anel ≈ Safina a 1%). Continua sem noção nenhuma de privacidade.
 — **Eris:** amizade genuína iniciada. Abraço recusado por respeito a Erza. Sabe as oito modalidades de cor.
 — **Jellal:** primeiro encontro. Guerra fria num elevador. Safina o expôs em duas frases (Aço de Cinza + desejo por Ishtar). A mão dele tremeu ao sair.
@@ -32573,7 +32573,7 @@ E, entre eles:
 
 **Orga Nanagear** e **Rogue Cheney**, de Sabertooth.
 
-**Yuka Suzuki** e **Chelia Blendy**, de Lamia Scale.
+**Yuka Suzuki** e **Sherria Blendy**, de Lamia Scale.
 
 E vinte outros.
 
@@ -36051,7 +36051,7 @@ Jellal: (...)
 
 **Ethernano:** André — cheio. Não gastou nada hoje além do reparo da ponte da Rua do Sino, que foi trabalho de precisão e não de volume.
 
-**Selos:** seis anéis, invisíveis. Armadura Dracônica dormente acoplada ao primeiro. Não foi usada. Ninguém em Ishgar sabe que ela existe além de Imperos, Safina, Ishtar e Erza — e da ficha do Artigo 23, que Baltasar Roen leu.
+**Selos:** seis anéis, invisíveis. Armadura Dracônica dormente acoplada ao primeiro. Não foi usada. Ninguém em Ishgar sabe que ela existe além de Impêros, Safina, Ishtar e Erza — e da ficha do Artigo 23, que Baltasar Roen leu.
 
 **Controle de força:** rachou a balaustrada de pedra da galeria da Fairy Tail — **não foi ele**. Foi Erza, ao ouvir o sobrenome.
 

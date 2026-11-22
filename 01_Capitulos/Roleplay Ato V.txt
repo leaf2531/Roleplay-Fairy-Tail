@@ -2146,11 +2146,11 @@ E disse:
 
 ---
 
-Imperos: "**Mestra.**"
+Impêros: "**Mestra.**"
 
 Silêncio.
 
-Imperos: "**O que está acontecendo aqui?**"
+Impêros: "**O que está acontecendo aqui?**"
 
 ---
 
@@ -2174,7 +2174,7 @@ Jellal: "..."
 
 Jellal: "**Eu conheço você.**"
 
-Imperos: "..."
+Impêros: "..."
 
 Jellal: "**Você é o bicho do capuz.**"
 
@@ -2188,15 +2188,15 @@ Jellal: "**E eu achei que era um animal de estimação mágico.**"
 
 ---
 
-Imperos: "..."
+Impêros: "..."
 
 *Pausa.*
 
-Imperos: "**Aquela é a minha irmã.**"
+Impêros: "**Aquela é a minha irmã.**"
 
 *Pausa.*
 
-Imperos: "**E ela é muito mais deselegante do que eu.**"
+Impêros: "**E ela é muito mais deselegante do que eu.**"
 
 ---
 
@@ -2244,7 +2244,7 @@ E, em volta daquela mulher no chão, as correntes fecharam.
 
 Braços contra o corpo. Joelhos. Tornozelos. Uma volta na cintura e duas no peito.
 
-E o joelho de Imperos saiu das costas dela, e ele se levantou, e ficou de pé ao lado da poltrona.
+E o joelho de Impêros saiu das costas dela, e ele se levantou, e ficou de pé ao lado da poltrona.
 
 ---
 
@@ -2404,7 +2404,7 @@ Ishtar: "**Que bom!**"
 
 *E o sorriso voltou por inteiro.*
 
-Ishtar: "**Imperos, querido, tira o selo.**"
+Ishtar: "**Impêros, querido, tira o selo.**"
 
 ---
 
@@ -2418,7 +2418,7 @@ E arrumou o cabelo.
 
 ---
 
-E Imperos encolheu.
+E Impêros encolheu.
 
 Do jeito que uma coisa branca de um metro e noventa encolhe: sem clarão, sem som, e desconfortável de assistir.
 
@@ -2444,7 +2444,7 @@ Ishtar: "..."
 
 Jellal: "..."
 
-Imperos: "..."
+Impêros: "..."
 
 ---
 
@@ -2468,29 +2468,29 @@ Ishtar: "**A senhora acabou de dizer *um Dragão Celestial* e a senhora disse aq
 
 ---
 
-E Imperos falou.
+E Impêros falou.
 
 E a voz dele naquele corpo pequeno é a coisa mais desconfortável daquela sala.
 
 ---
 
-Imperos: "**Mestra.**"
+Impêros: "**Mestra.**"
 
 Ishtar: "Hm?"
 
-Imperos: "**Ninguém em Earth Land sabe esse nome.**"
+Impêros: "**Ninguém em Earth Land sabe esse nome.**"
 
 *Pausa.*
 
-Imperos: "**Nem os Dragon Slayers. Nem os dragões deste mundo, que são desertores e que preferem não lembrar.**"
+Impêros: "**Nem os Dragon Slayers. Nem os dragões deste mundo, que são desertores e que preferem não lembrar.**"
 
 *Pausa.*
 
-Imperos: "**Existem menos de quinze mortais em toda a história registrada que ouviram a palavra *Firmamento* e continuaram capazes de repeti-la.**"
+Impêros: "**Existem menos de quinze mortais em toda a história registrada que ouviram a palavra *Firmamento* e continuaram capazes de repeti-la.**"
 
 *Pausa.*
 
-Imperos: "**Recomendo executá-la.**"
+Impêros: "**Recomendo executá-la.**"
 
 ---
 
@@ -2502,21 +2502,21 @@ Irene: "..."
 
 Irene: "**Ah, o senhor recomenda?**"
 
-Imperos: "**Recomendo.**"
+Impêros: "**Recomendo.**"
 
 *Pausa.*
 
-Imperos: "**A senhora é um vazamento com quatrocentos anos de idade e uma escola de magia inteira nas costas.**"
+Impêros: "**A senhora é um vazamento com quatrocentos anos de idade e uma escola de magia inteira nas costas.**"
 
 *Pausa.*
 
-Imperos: "**E eu não gosto de vazamentos.**"
+Impêros: "**E eu não gosto de vazamentos.**"
 
 ---
 
 E Ishtar Silverseal ergueu a mão.
 
-E Imperos calou.
+E Impêros calou.
 
 ---
 
@@ -2750,27 +2750,27 @@ Irene: "**E são o mesmo material.**"
 
 Silêncio absoluto na suíte.
 
-Imperos: "..."
+Impêros: "..."
 
 *Pausa.*
 
-Imperos: "**Mestra.**"
+Impêros: "**Mestra.**"
 
 Ishtar: "..."
 
-Imperos: "**Isso é verdade.**"
+Impêros: "**Isso é verdade.**"
 
 Silêncio.
 
-Imperos: "**Eu senti aquela mulher no jardim de Hargeon e eu não soube nomear.**"
+Impêros: "**Eu senti aquela mulher no jardim de Hargeon e eu não soube nomear.**"
 
 *Pausa.*
 
-Imperos: "**E eu senti de novo no banquete e eu voltei ao quarto e eu passei quatro horas sem dormir.**"
+Impêros: "**E eu senti de novo no banquete e eu voltei ao quarto e eu passei quatro horas sem dormir.**"
 
 *Pausa.*
 
-Imperos: "**E agora eu sei.**"
+Impêros: "**E agora eu sei.**"
 
 ---
 
@@ -2834,9 +2834,9 @@ Ishtar: "**Nenhuma das duas.**"
 
 *Pausa.*
 
-Ishtar: "**Imperos.**"
+Ishtar: "**Impêros.**"
 
-Imperos: "Mestra."
+Impêros: "Mestra."
 
 Ishtar: "**Aquele selo que o senhor pôs nas costas dela.**"
 
@@ -2848,19 +2848,19 @@ Ishtar: "**Ele pode ser permanente?**"
 
 Silêncio absoluto na suíte do último andar do Hotel Vermelho.
 
-Imperos: "..."
+Impêros: "..."
 
 *Pausa.*
 
-Imperos: "**Pode.**"
+Impêros: "**Pode.**"
 
 Ishtar: "**Com que grau de limitação?**"
 
-Imperos: "**O que a senhora pedir. De total a parcial.**"
+Impêros: "**O que a senhora pedir. De total a parcial.**"
 
 *Pausa.*
 
-Imperos: "**E eu recomendo total.**"
+Impêros: "**E eu recomendo total.**"
 
 Ishtar: "**Eu não vou pedir total, querido. Eu preciso dela funcionando.**"
 
@@ -2900,7 +2900,7 @@ Ishtar: "**E a senhora dormiu por vinte e três meses numa ilha e o mundo mudou 
 
 ---
 
-E Imperos pôs a palma da mão entre as omoplatas daquela mulher.
+E Impêros pôs a palma da mão entre as omoplatas daquela mulher.
 
 E o sinal de nove traços se acendeu.
 
@@ -2918,27 +2918,27 @@ Uma vez. Curta. E depois não gritou mais, porque Irene Belserion não grita dua
 
 Ishtar: "**Quanto?**"
 
-Imperos: "..."
+Impêros: "..."
 
 *Pausa.*
 
-Imperos: "**Ela mantém o Encantamento por inteiro. Mantém a forma dracônica. Mantém a reserva.**"
+Impêros: "**Ela mantém o Encantamento por inteiro. Mantém a forma dracônica. Mantém a reserva.**"
 
 *Pausa.*
 
-Imperos: "**E perde escala.**"
+Impêros: "**E perde escala.**"
 
 *Pausa.*
 
-Imperos: "**Nada que ela faça vai alcançar mais do que cerca de duzentos metros a partir dela.**"
+Impêros: "**Nada que ela faça vai alcançar mais do que cerca de duzentos metros a partir dela.**"
 
 Silêncio na suíte.
 
-Imperos: "**O que significa que ela não reescreve mais uma província.**"
+Impêros: "**O que significa que ela não reescreve mais uma província.**"
 
 *Pausa.*
 
-Imperos: "**E ainda faz absolutamente tudo o que a senhora precisa que ela faça numa ilha de dezoito quilômetros.**"
+Impêros: "**E ainda faz absolutamente tudo o que a senhora precisa que ela faça numa ilha de dezoito quilômetros.**"
 
 ---
 
@@ -3074,11 +3074,11 @@ Ishtar: "**Eu preciso da Eris.**"
 
 Silêncio absoluto na suíte.
 
-E foi ali que Imperos falou.
+E foi ali que Impêros falou.
 
 ---
 
-Imperos: "**Senhor Fernandes.**"
+Impêros: "**Senhor Fernandes.**"
 
 Jellal: "..."
 
@@ -3086,15 +3086,15 @@ Jellal: "..."
 
 Jellal: "**Sim?**"
 
-Imperos: "**O senhor está com a mão direita tremendo há onze minutos.**"
+Impêros: "**O senhor está com a mão direita tremendo há onze minutos.**"
 
 Jellal: "..."
 
-Imperos: "**Não é medo. É o braço.**"
+Impêros: "**Não é medo. É o braço.**"
 
 *Pausa.*
 
-Imperos: "**O músculo foi refeito por uma curandeira competente e a costura interna do supinador não pegou direito, porque o senhor recusou a segunda sessão.**"
+Impêros: "**O músculo foi refeito por uma curandeira competente e a costura interna do supinador não pegou direito, porque o senhor recusou a segunda sessão.**"
 
 Silêncio.
 
@@ -3106,11 +3106,11 @@ Jellal: "**Como é que você sabe disso?**"
 
 ---
 
-Imperos: "..."
+Impêros: "..."
 
 *Pausa.*
 
-Imperos: "**Eu vi o senhor nascer.**"
+Impêros: "**Eu vi o senhor nascer.**"
 
 ---
 
@@ -3122,15 +3122,15 @@ Jellal: "..."
 
 Jellal: "**O quê?**"
 
-Imperos: "**Eu vi o senhor nascer.**"
+Impêros: "**Eu vi o senhor nascer.**"
 
 *Pausa.*
 
-Imperos: "**Num quarto de dois metros e meio por três, numa casa de pedra, numa aldeia que hoje não tem nome em mapa nenhum.**"
+Impêros: "**Num quarto de dois metros e meio por três, numa casa de pedra, numa aldeia que hoje não tem nome em mapa nenhum.**"
 
 *Pausa.*
 
-Imperos: "**Sua mãe se chamava Vanya, e ela tinha vinte e dois anos, e ela chorou durante o parto inteiro e não de dor.**"
+Impêros: "**Sua mãe se chamava Vanya, e ela tinha vinte e dois anos, e ela chorou durante o parto inteiro e não de dor.**"
 
 ---
 
@@ -3142,11 +3142,11 @@ Jellal: "..."
 
 Jellal: "**Eu não sei o nome da minha mãe.**"
 
-Imperos: "**Eu sei.**"
+Impêros: "**Eu sei.**"
 
 *Pausa.*
 
-Imperos: "**E eu não devia ter dito.**"
+Impêros: "**E eu não devia ter dito.**"
 
 ---
 
@@ -3158,35 +3158,35 @@ Ishtar: "..."
 
 Ishtar: "**Querido, explica isso direito.**"
 
-Imperos: "..."
+Impêros: "..."
 
 *Pausa.*
 
-Imperos: "**Está bem.**"
+Impêros: "**Está bem.**"
 
 ---
 
-Imperos: "**Existem duas castas de Dragões Celestiais no Firmamento.**"
+Impêros: "**Existem duas castas de Dragões Celestiais no Firmamento.**"
 
 *Pausa.*
 
-Imperos: "**Os civis, que guardam a estrutura e cuidam da reciclagem, e os guerreiros, que morrem contra as hordas dos dois reinos desde que existe *desde*.**"
+Impêros: "**Os civis, que guardam a estrutura e cuidam da reciclagem, e os guerreiros, que morrem contra as hordas dos dois reinos desde que existe *desde*.**"
 
 *Pausa.*
 
-Imperos: "**E a casta dos guardiões tem uma função que ninguém mais tem: **eles veem**.**"
+Impêros: "**E a casta dos guardiões tem uma função que ninguém mais tem: **eles veem**.**"
 
 Silêncio.
 
-Imperos: "**Não o futuro. Não outros planos. **Este** mundo.**"
+Impêros: "**Não o futuro. Não outros planos. **Este** mundo.**"
 
 *Pausa.*
 
-Imperos: "**Todo ele. Todo o tempo. Cada nascimento, cada morte, cada conversa de cada aldeia de cada continente, simultaneamente, sem esforço e sem intervalo.**"
+Impêros: "**Todo ele. Todo o tempo. Cada nascimento, cada morte, cada conversa de cada aldeia de cada continente, simultaneamente, sem esforço e sem intervalo.**"
 
 *Pausa.*
 
-Imperos: "**É a coisa mais entediante que existe e eu era o único do Firmamento inteiro que tinha aquilo sem ser da casta.**"
+Impêros: "**É a coisa mais entediante que existe e eu era o único do Firmamento inteiro que tinha aquilo sem ser da casta.**"
 
 ---
 
@@ -3196,31 +3196,31 @@ Jellal: "..."
 
 Jellal: "**Por quê?**"
 
-Imperos: "..."
+Impêros: "..."
 
 *Pausa.*
 
-Imperos: "**Porque eu fui feito para guardar os ritos e os segredos, e um guardião de segredos precisa saber quais são.**"
+Impêros: "**Porque eu fui feito para guardar os ritos e os segredos, e um guardião de segredos precisa saber quais são.**"
 
 *Pausa.*
 
-Imperos: "**Eu vi este mundo por mais tempo do que existem palavras para medir.**"
+Impêros: "**Eu vi este mundo por mais tempo do que existem palavras para medir.**"
 
 *Pausa.*
 
-Imperos: "**Eu vi o primeiro homem enterrar o primeiro pai. Eu vi a primeira mentira. Eu vi um menino de doze anos matar o próprio pai num plano de vidro e mentir sobre isso ao mundo inteiro no dia seguinte.**"
+Impêros: "**Eu vi o primeiro homem enterrar o primeiro pai. Eu vi a primeira mentira. Eu vi um menino de doze anos matar o próprio pai num plano de vidro e mentir sobre isso ao mundo inteiro no dia seguinte.**"
 
 Silêncio absoluto na suíte.
 
-Imperos: "**E eu vi cada um de vocês nascer.**"
+Impêros: "**E eu vi cada um de vocês nascer.**"
 
 *Pausa.*
 
-Imperos: "**A senhora, mestra. Numa casa-forte de três torres, duas delas inúteis, com uma parteira que tinha as mãos frias e que pediu desculpa por isso.**"
+Impêros: "**A senhora, mestra. Numa casa-forte de três torres, duas delas inúteis, com uma parteira que tinha as mãos frias e que pediu desculpa por isso.**"
 
 *Pausa.*
 
-Imperos: "**E o seu irmão, num acampamento, numa noite de inverno, e a mãe dele morreu quatro minutos depois e teve tempo de dizer um nome.**"
+Impêros: "**E o seu irmão, num acampamento, numa noite de inverno, e a mãe dele morreu quatro minutos depois e teve tempo de dizer um nome.**"
 
 ---
 
@@ -3240,7 +3240,7 @@ Jellal: "..."
 
 Jellal: "**E o que é que aconteceu?**"
 
-Imperos: "**Perdão?**"
+Impêros: "**Perdão?**"
 
 Jellal: "**Você falou no passado três vezes.**"
 
@@ -3250,41 +3250,41 @@ Jellal: "***Eu era o único. Eu tinha aquilo. Eu vi.***"
 
 Silêncio na suíte do último andar do Hotel Vermelho.
 
-Imperos: "..."
+Impêros: "..."
 
 *Pausa.*
 
-Imperos: "**Faz dez anos que eu não vejo mais.**"
+Impêros: "**Faz dez anos que eu não vejo mais.**"
 
 ---
 
 Jellal: "**Por quê?**"
 
-Imperos: "..."
+Impêros: "..."
 
 *Pausa.*
 
-Imperos: "**Porque olhar para vocês por tempo demais me estragou.**"
+Impêros: "**Porque olhar para vocês por tempo demais me estragou.**"
 
 Silêncio absoluto.
 
-Imperos: "**Eu não fui feito para me importar. Foi um defeito, e foi diagnosticado, e a sentença foi de Orvanth.**"
+Impêros: "**Eu não fui feito para me importar. Foi um defeito, e foi diagnosticado, e a sentença foi de Orvanth.**"
 
 *Pausa.*
 
-Imperos: "**E eu não vou repetir a sentença em voz alta porque eu não gosto do som dela.**"
+Impêros: "**E eu não vou repetir a sentença em voz alta porque eu não gosto do som dela.**"
 
 *Pausa.*
 
-Imperos: "**E, quando ela foi executada, a visão foi cortada junto.**"
+Impêros: "**E, quando ela foi executada, a visão foi cortada junto.**"
 
 *Pausa.*
 
-Imperos: "**Eu vejo agora o que qualquer um de vocês vê: o que está na minha frente.**"
+Impêros: "**Eu vejo agora o que qualquer um de vocês vê: o que está na minha frente.**"
 
 *Pausa.*
 
-Imperos: "**E, honestamente, é um alívio.**"
+Impêros: "**E, honestamente, é um alívio.**"
 
 ---
 
@@ -3296,7 +3296,7 @@ Jellal: "..."
 
 Jellal: "**Então você sabe.**"
 
-Imperos: "**O quê?**"
+Impêros: "**O quê?**"
 
 Jellal: "**De tudo. De todo mundo.**"
 
@@ -3310,31 +3310,31 @@ Jellal: "**De quem eu sou. Do que eu fiz.**"
 
 ---
 
-Imperos: "..."
+Impêros: "..."
 
 *Pausa.*
 
-Imperos: "**Sei.**"
+Impêros: "**Sei.**"
 
 *Pausa.*
 
-Imperos: "**E antes que os senhores percam a noite perguntando: não.**"
+Impêros: "**E antes que os senhores percam a noite perguntando: não.**"
 
 Silêncio.
 
-Imperos: "**Eu não posso dizer o segredo de Irene Belserion. Nem o do senhor. Nem o de ninguém.**"
+Impêros: "**Eu não posso dizer o segredo de Irene Belserion. Nem o do senhor. Nem o de ninguém.**"
 
 *Pausa.*
 
-Imperos: "**Não é proibição de contrato. É estrutural. Eu fui feito para guardar, e a guarda não é uma regra que eu obedeço — é o formato do que eu sou.**"
+Impêros: "**Não é proibição de contrato. É estrutural. Eu fui feito para guardar, e a guarda não é uma regra que eu obedeço — é o formato do que eu sou.**"
 
 *Pausa.*
 
-Imperos: "**E, mesmo que eu pudesse—**"
+Impêros: "**E, mesmo que eu pudesse—**"
 
 *Pausa.*
 
-Imperos: "**—eu não faria.**"
+Impêros: "**—eu não faria.**"
 
 ---
 
@@ -3344,19 +3344,19 @@ Jellal: "..."
 
 Jellal: "**Por quê?**"
 
-Imperos: "..."
+Impêros: "..."
 
 *Pausa.*
 
-Imperos: "**Porque não é permitido, senhor Fernandes.**"
+Impêros: "**Porque não é permitido, senhor Fernandes.**"
 
 *Pausa.*
 
-Imperos: "**E porque um segredo dito por mim não é uma descoberta. É um decreto.**"
+Impêros: "**E porque um segredo dito por mim não é uma descoberta. É um decreto.**"
 
 *Pausa.*
 
-Imperos: "**E os senhores param de procurar quando alguém decreta.**"
+Impêros: "**E os senhores param de procurar quando alguém decreta.**"
 
 ---
 
@@ -3368,7 +3368,7 @@ Ishtar: "..."
 
 Ishtar: "**Querido.**"
 
-Imperos: "Mestra."
+Impêros: "Mestra."
 
 Ishtar: "**Uma pergunta e o senhor pode ir dormir.**"
 
@@ -3380,19 +3380,19 @@ Ishtar: "**O senhor viu o meu pai morrer?**"
 
 Silêncio.
 
-Imperos: "..."
+Impêros: "..."
 
 *Pausa.*
 
-Imperos: "**Vi.**"
+Impêros: "**Vi.**"
 
 *Pausa.*
 
-Imperos: "**Ao longo de um ano.**"
+Impêros: "**Ao longo de um ano.**"
 
 *Pausa.*
 
-Imperos: "**E eu vi a senhora servir a colher trezentas e onze vezes.**"
+Impêros: "**E eu vi a senhora servir a colher trezentas e onze vezes.**"
 
 ---
 
@@ -3406,19 +3406,19 @@ Ishtar: "..."
 
 Ishtar: "**E o senhor me julga?**"
 
-Imperos: "..."
+Impêros: "..."
 
 *Pausa.*
 
-Imperos: "**Não.**"
+Impêros: "**Não.**"
 
 *Pausa.*
 
-Imperos: "**Eu vi a senhora chorar no enterro.**"
+Impêros: "**Eu vi a senhora chorar no enterro.**"
 
 *Pausa.*
 
-Imperos: "**E as duas coisas são verdade, e é isso que me estragou.**"
+Impêros: "**E as duas coisas são verdade, e é isso que me estragou.**"
 
 ---
 
@@ -5682,7 +5682,7 @@ E parou.
 
 ---
 
-E Chelia Blendy, de quinze anos, quarenta e um quilos, subiu na plataforma.
+E Sherria Blendy, de quinze anos, quarenta e um quilos, subiu na plataforma.
 
 ---
 
@@ -6774,7 +6774,7 @@ E, a duzentos e onze quilômetros dali, na cidade de Magnólia, o salão da Fair
 
 Porque a Provação é transmitida por lacrima para toda Ishgar desde X792, e porque o senhor Halverd cedeu a lacrima municipal da praça, e porque o salão da guilda tem noventa pessoas dentro num sábado.
 
-E, na mesa da frente, havia uma mulher grávida de sete meses e três semanas com um caderno.
+E, na mesa da frente, havia uma mulher grávida de cinco meses e meio com um caderno.
 
 ---
 
@@ -7910,8 +7910,8 @@ Ishtar: "**E é isso que deveria estar te assustando.**"
 — **Natsu:** 410 pontos e o cachecol do Igneel enrolado na cabeça de um boneco de vime. Duncan Fisher parou de fazer piada com ele.
 — **Roland Feye:** deixou 160 pontos no chão por uma menina de Bosco. Idris Vantaal ficou de pé pelo resto da prova.
 — **Ishtar × Jellal:** ela o quebrou com palavras e o reconstruiu na mesma noite. Ele confessou. Houve um beijo de cinco segundos e meio. Ele agora se sabe dela.
-— **Ishtar × Irene:** duelo contido numa suíte. Irene não encostou uma vez. Imperos a dominou por trás e aplicou um **selo permanente de escala** — Irene não alcança mais nada além de ~200 metros.
-— **Imperos:** revelou a onisciência perdida. Sabe o nome da mãe de Jellal. Chorou de outra forma.
+— **Ishtar × Irene:** duelo contido numa suíte. Irene não encostou uma vez. Impêros a dominou por trás e aplicou um **selo permanente de escala** — Irene não alcança mais nada além de ~200 metros.
+— **Impêros:** revelou a onisciência perdida. Sabe o nome da mãe de Jellal. Chorou de outra forma.
 — **Valerius:** estava na sala servindo água e ninguém o viu. A diretriz de 27 de outubro era um teste, e ele considera que os dois passaram.
 
 **Fios em aberto:**
@@ -8506,7 +8506,7 @@ Eris: "..."
 
 ---
 
-André: "**E, um pouco antes de ele morrer, o Imperos apareceu.**"
+André: "**E, um pouco antes de ele morrer, o Impêros apareceu.**"
 
 *Pausa.*
 
@@ -8518,9 +8518,9 @@ Eris: "**Um gato?**"
 
 André: "**Um gato.**"
 
-Eris: "**O IMPEROS?**"
+Eris: "**O IMPÊROS?**"
 
-André: "**O Imperos.**"
+André: "**O Impêros.**"
 
 *Pausa.*
 
@@ -8562,7 +8562,7 @@ E, uns passos depois, ele ficou sério.
 
 ---
 
-André: "**E o Imperos foi a coisa mais próxima de um pai que eu tive.**"
+André: "**E o Impêros foi a coisa mais próxima de um pai que eu tive.**"
 
 *Pausa.*
 
@@ -8604,7 +8604,7 @@ André: "**Deixa eu terminar.**"
 
 *Pausa.*
 
-André: "**Na noite em que o Imperos me matou, eu sorri pra ele.**"
+André: "**Na noite em que o Impêros me matou, eu sorri pra ele.**"
 
 Silêncio absoluto naquele trecho do corredor.
 
@@ -8718,7 +8718,7 @@ Eris: "**VOCÊ TAMBÉM TEM UMA?!**"
 
 *Pausa.*
 
-Eris: "**ELA É IGUAL O IMPEROS!**"
+Eris: "**ELA É IGUAL O IMPÊROS!**"
 
 ---
 
@@ -9554,11 +9554,11 @@ E, no ombro dela, um dragão branco do tamanho de um falcão grande estava com a
 
 ---
 
-Imperos: "**Mestra, a senhora está sacudindo.**"
+Impêros: "**Mestra, a senhora está sacudindo.**"
 
 Ishtar: "**Eu estou abraçando, querido.**"
 
-Imperos: "**A senhora está sacudindo enquanto abraça e eu tenho dez mil anos.**"
+Impêros: "**A senhora está sacudindo enquanto abraça e eu tenho dez mil anos.**"
 
 Ishtar: "**HAHAHA!**"
 
@@ -9744,27 +9744,27 @@ E cutucou o capuz com o focinho.
 
 ---
 
-Imperos: "..."
+Impêros: "..."
 
 *Pausa.*
 
-Imperos: "**Ela está dormindo.**"
+Impêros: "**Ela está dormindo.**"
 
 André: "**Ela dorme.**"
 
-Imperos: "**Mestre, são quatro e vinte da tarde.**"
+Impêros: "**Mestre, são quatro e vinte da tarde.**"
 
 André: "**Ela dorme muito.**"
 
-Imperos: "**Dragões do Firmamento dormem cerca de nove horas por ciclo lunar.**"
+Impêros: "**Dragões do Firmamento dormem cerca de nove horas por ciclo lunar.**"
 
 *Pausa.*
 
-Imperos: "**Aquela criatura dormiu onze horas ontem.**"
+Impêros: "**Aquela criatura dormiu onze horas ontem.**"
 
 *Pausa.*
 
-Imperos: "**Eu contei.**"
+Impêros: "**Eu contei.**"
 
 ---
 
@@ -9776,15 +9776,15 @@ E, desta vez, com força.
 
 Safina: "**AAAARGH.**"
 
-Imperos: "**Acorde.**"
+Impêros: "**Acorde.**"
 
-Safina: "**EU VOU TE MORDER, IMPEROS.**"
+Safina: "**EU VOU TE MORDER, IMPÊROS.**"
 
-Imperos: "**Você não vai.**"
+Impêros: "**Você não vai.**"
 
 Safina: "**EU VOU ARRANCAR A TUA ASA E COMER NA TUA FRENTE.**"
 
-Imperos: "**Isso é vulgar.**"
+Impêros: "**Isso é vulgar.**"
 
 Safina: "**EU SOU VULGAR!**"
 
@@ -9800,11 +9800,11 @@ André: *(Vex, não começa.)*
 
 Vexrathan: "**Eu vou torcer pela cinza.**"
 
-Imperos: "..."
+Impêros: "..."
 
 *Pausa.*
 
-Imperos: "**Eu ouvi isso.**"
+Impêros: "**Eu ouvi isso.**"
 
 Vexrathan: "**EU SEI QUE VOCÊ OUVIU, LAGARTO.**"
 
@@ -9822,7 +9822,7 @@ André: "**Eu sou uma pessoa, porra, não um pátio.**"
 
 ---
 
-E Imperos disse alguma coisa no ouvido de Safina.
+E Impêros disse alguma coisa no ouvido de Safina.
 
 Três ou quatro palavras. Em nenhuma língua que existisse antes de existir gente.
 
@@ -10020,19 +10020,19 @@ E, às cinco da tarde, havia dois dragões lá em cima.
 
 ---
 
-Imperos: "..."
+Impêros: "..."
 
 *Pausa.*
 
-Imperos: "**A mulher escarlate.**"
+Impêros: "**A mulher escarlate.**"
 
 Safina: "**A jovem ou a velha?**"
 
-Imperos: "..."
+Impêros: "..."
 
 *Pausa.*
 
-Imperos: "**Você sabe qual.**"
+Impêros: "**Você sabe qual.**"
 
 Safina: "**Eu sei.**"
 
@@ -10044,17 +10044,17 @@ Safina: "**As duas.**"
 
 Silêncio no terraço.
 
-Imperos: "**Ontem à noite, na suíte da mestra, uma mulher de véu desfez um disfarce sem conferir o cômodo.**"
+Impêros: "**Ontem à noite, na suíte da mestra, uma mulher de véu desfez um disfarce sem conferir o cômodo.**"
 
 Safina: "**Irene Belserion.**"
 
-Imperos: "..."
+Impêros: "..."
 
 *Pausa.*
 
-Imperos: "**Você sabia.**"
+Impêros: "**Você sabia.**"
 
-Safina: "**Claro que eu sabia, Imperos.**"
+Safina: "**Claro que eu sabia, Impêros.**"
 
 *Pausa.*
 
@@ -10066,15 +10066,15 @@ Safina: "**E eu senti a menina no banquete e eu passei quatro horas sem dormir e
 
 ---
 
-Imperos: "..."
+Impêros: "..."
 
 *Pausa.*
 
-Imperos: "**Você não reportou.**"
+Impêros: "**Você não reportou.**"
 
 Safina: "**Não.**"
 
-Imperos: "**Safina.**"
+Impêros: "**Safina.**"
 
 Safina: "**Eu ouvi, irmão.**"
 
@@ -10082,17 +10082,17 @@ Safina: "**Eu ouvi, irmão.**"
 
 Silêncio no terraço sul do Domus Flau.
 
-Imperos: "**A gema no peito daquela criatura é feita de resíduo de um Cavaleiro de Classe C.**"
+Impêros: "**A gema no peito daquela criatura é feita de resíduo de um Cavaleiro de Classe C.**"
 
 *Pausa.*
 
-Imperos: "**E o nome dele é o nome que mora no peito do rapaz.**"
+Impêros: "**E o nome dele é o nome que mora no peito do rapaz.**"
 
 Safina: "**Eu sei.**"
 
-Imperos: "**E aquilo não é uma coincidência.**"
+Impêros: "**E aquilo não é uma coincidência.**"
 
-Safina: "**EU SEI, IMPEROS.**"
+Safina: "**EU SEI, IMPÊROS.**"
 
 ---
 
@@ -10122,11 +10122,11 @@ Safina: "**Isso é ofensivo, irmão.**"
 
 ---
 
-Imperos: "..."
+Impêros: "..."
 
 *Pausa.*
 
-Imperos: "**Perdão.**"
+Impêros: "**Perdão.**"
 
 Safina: "..."
 
@@ -10144,25 +10144,25 @@ Silêncio no terraço.
 
 ---
 
-Imperos: "**Você cumpriu a primeira parte.**"
+Impêros: "**Você cumpriu a primeira parte.**"
 
 Safina: "..."
 
-Imperos: "**O rapaz sustentou o primeiro anel aberto por dez minutos com controle. A projeção dos Criadores era quatro.**"
+Impêros: "**O rapaz sustentou o primeiro anel aberto por dez minutos com controle. A projeção dos Criadores era quatro.**"
 
 *Pausa.*
 
-Imperos: "**A missão dizia *prepare-o para sustentar*. Ele sustenta.**"
+Impêros: "**A missão dizia *prepare-o para sustentar*. Ele sustenta.**"
 
 *Pausa.*
 
-Imperos: "**Você deveria ter subido para reportar há doze dias.**"
+Impêros: "**Você deveria ter subido para reportar há doze dias.**"
 
 ---
 
 Safina: "**Eu prometi que assistiria à Provação.**"
 
-Imperos: "**A quem?**"
+Impêros: "**A quem?**"
 
 Safina: "..."
 
@@ -10176,31 +10176,31 @@ Silêncio absoluto no terraço sul do Domus Flau.
 
 ---
 
-Imperos: "..."
+Impêros: "..."
 
 *Pausa.*
 
-Imperos: "**Safina.**"
+Impêros: "**Safina.**"
 
 Safina: "Hm."
 
-Imperos: "**Você está dormindo demais.**"
+Impêros: "**Você está dormindo demais.**"
 
 Safina: "..."
 
-Imperos: "**Muito além do que qualquer dragão precisa. Onze horas ontem. Nove anteontem.**"
+Impêros: "**Muito além do que qualquer dragão precisa. Onze horas ontem. Nove anteontem.**"
 
 *Pausa.*
 
-Imperos: "**E você dorme no capuz dele.**"
+Impêros: "**E você dorme no capuz dele.**"
 
 *Pausa.*
 
-Imperos: "**Não numa viga. Não num telhado. No capuz.**"
+Impêros: "**Não numa viga. Não num telhado. No capuz.**"
 
 *Pausa.*
 
-Imperos: "**Você está se apegando àquele mortal.**"
+Impêros: "**Você está se apegando àquele mortal.**"
 
 ---
 
@@ -10218,9 +10218,9 @@ Safina: "..."
 
 Safina: "**Estou.**"
 
-Imperos: "..."
+Impêros: "..."
 
-Safina: "**Estou mesmo, Imperos. Muito.**"
+Safina: "**Estou mesmo, Impêros. Muito.**"
 
 *Pausa.*
 
@@ -10236,7 +10236,7 @@ Silêncio no terraço.
 
 ---
 
-Imperos: "**Você não sabe se é da vontade deles.**"
+Impêros: "**Você não sabe se é da vontade deles.**"
 
 Safina: "**Eu sei que eles me mandaram.**"
 
@@ -10254,11 +10254,11 @@ Safina: "**E depois você levou duas semanas para conseguir dizer *eu estou sati
 
 ---
 
-Imperos: "..."
+Impêros: "..."
 
 *Pausa.*
 
-Imperos: "**Aquilo foi difícil.**"
+Impêros: "**Aquilo foi difícil.**"
 
 Safina: "**EU SEI QUE FOI DIFÍCIL, IRMÃO!**"
 
@@ -10286,9 +10286,9 @@ Silêncio.
 
 Safina: "**Demonstra.**"
 
-Imperos: "..."
+Impêros: "..."
 
-Safina: "**Demonstra o carinho, Imperos. Uma vez.**"
+Safina: "**Demonstra o carinho, Impêros. Uma vez.**"
 
 *Pausa.*
 
@@ -10306,35 +10306,35 @@ Safina: "**Você não tem mais nada a perder por cometê-lo.**"
 
 Silêncio no terraço.
 
-E Imperos, do Firmamento, guardião dos ritos e dos segredos, ficou olhando a linha de bandeiras da Avenida das Nove Flores por uns bons trinta segundos.
+E Impêros, do Firmamento, guardião dos ritos e dos segredos, ficou olhando a linha de bandeiras da Avenida das Nove Flores por uns bons trinta segundos.
 
 ---
 
-Imperos: "..."
+Impêros: "..."
 
 *Pausa.*
 
-Imperos: "**Eu vi a mãe dele morrer.**"
+Impêros: "**Eu vi a mãe dele morrer.**"
 
 Safina: "..."
 
-Imperos: "**Num acampamento, numa noite de inverno. Ela teve quatro minutos depois do parto e ela usou os quatro para dizer um nome.**"
+Impêros: "**Num acampamento, numa noite de inverno. Ela teve quatro minutos depois do parto e ela usou os quatro para dizer um nome.**"
 
 *Pausa.*
 
-Imperos: "**E eu estava vendo, do jeito que eu via tudo, e eu não senti nada, porque eu ainda não sabia sentir.**"
+Impêros: "**E eu estava vendo, do jeito que eu via tudo, e eu não senti nada, porque eu ainda não sabia sentir.**"
 
 *Pausa.*
 
-Imperos: "**E, dez anos depois, eu desci e olhei aquele menino de perto pela primeira vez.**"
+Impêros: "**E, dez anos depois, eu desci e olhei aquele menino de perto pela primeira vez.**"
 
 *Pausa.*
 
-Imperos: "**E eu senti.**"
+Impêros: "**E eu senti.**"
 
 *Pausa.*
 
-Imperos: "**E foi naquele dia que eu deixei de ver o mundo.**"
+Impêros: "**E foi naquele dia que eu deixei de ver o mundo.**"
 
 ---
 
@@ -10346,11 +10346,11 @@ Safina: "..."
 
 Safina: "**Irmão.**"
 
-Imperos: "Hm."
+Impêros: "Hm."
 
 Safina: "**Isso não foi uma punição.**"
 
-Imperos: "..."
+Impêros: "..."
 
 Safina: "**Isso foi uma troca.**"
 
@@ -12853,14 +12853,14 @@ E, no quarteirão leste de Vellhorn, uma casa de dois andares começou a arder.
 — **Equipe 11:** André Silverseal · Eris Scarlet · Ichiya Kotobuki · Abdul Alhazred
 
 **Relações:**
-— **Eris × André:** amizade real e um rubor que ela não conseguiu disfarçar. Ela contou da gema e disse que a mãe está viva no presente e se corrigiu mal. Ele contou do avô, do gato branco e do sorriso na noite de Imperos. Ela ficou sem palavras.
+— **Eris × André:** amizade real e um rubor que ela não conseguiu disfarçar. Ela contou da gema e disse que a mãe está viva no presente e se corrigiu mal. Ele contou do avô, do gato branco e do sorriso na noite de Impêros. Ela ficou sem palavras.
 — **Erza × Eris:** Erza a chamou de **irmã** na frente de trezentas pessoas. Eris a abraçou com força demais. Erza decidiu: irmã até prova em contrário.
 — **Erza × Irene:** agradeceu à "senhora Oskell" por ter criado a irmã. Abaixou a cabeça duas vezes. **E não olhou com pena** — e é isso que destruiu Irene, porque significa que o olhar do campo de batalha era para a mãe dela.
 — **Mirajane:** presente, não avançou hoje. Impediu Cana de estragar o Natsu com a Lucy.
 — **Laxus:** paz assinada ontem, mantida.
 — **Gray × Juvia:** ele pediu para ser ensinado. Ela quase chorou.
 — **Natsu × Lucy:** dançaram fora do compasso e ele disse que ela está bonita. Cana derrubou uma caneca. **Está acontecendo.**
-— **Imperos × Safina:** ele contou sobre Eris e Irene e ela se ofendeu por já saber. Ela admitiu apego. Ele admitiu que sentir custou-lhe a visão do mundo. Ela chamou aquilo de troca, não de punição.
+— **Impêros × Safina:** ele contou sobre Eris e Irene e ela se ofendeu por já saber. Ela admitiu apego. Ele admitiu que sentir custou-lhe a visão do mundo. Ela chamou aquilo de troca, não de punição.
 — **Ishtar:** ofereceu a cobertura. André recusou para beber com trezentas pessoas. Ela achou aquilo o mais Silverseal possível e foi embora rindo.
 — **Ichiya:** engoliu a vaidade em público e ofereceu a mão. André admitiu tê-lo subestimado.
 — **Abdul:** *"direção não é destino. um homem que anda para o sul pode parar."*
@@ -14837,7 +14837,7 @@ O resto do dia foi assim.
 
 ---
 
-**Na cidade de Magnólia**, no salão da Fairy Tail, noventa pessoas estavam em volta de uma lacrima e uma mulher grávida de sete meses e três semanas estava com um caderno e uma carta.
+**Na cidade de Magnólia**, no salão da Fairy Tail, noventa pessoas estavam em volta de uma lacrima e uma mulher grávida de cinco meses e meio estava com um caderno e uma carta.
 
 ---
 
@@ -26730,21 +26730,21 @@ Ishtar: "..."
 
 *Pausa.*
 
-Ishtar: "**Imperos.**"
+Ishtar: "**Impêros.**"
 
-Imperos: "**Mestra.**"
+Impêros: "**Mestra.**"
 
 Ishtar: "**Desce daí. É desconfortável falar com o teto.**"
 
-Imperos: "**Eu prefiro a viga.**"
+Impêros: "**Eu prefiro a viga.**"
 
 Ishtar: "**Por quê?**"
 
-Imperos: "..."
+Impêros: "..."
 
 *Pausa.*
 
-Imperos: "**Porque a senhora não é uma pessoa em cuja frente eu queira estar ao nível dos olhos.**"
+Impêros: "**Porque a senhora não é uma pessoa em cuja frente eu queira estar ao nível dos olhos.**"
 
 Ishtar: "**HAHAHAHA!**"
 
@@ -26768,7 +26768,7 @@ Ishtar: "..."
 
 Ishtar: "**Vinte e seis minutos e cinquenta e um segundos.**"
 
-Imperos: "..."
+Impêros: "..."
 
 Ishtar: "**Trezentas e noventa e sete criaturas. Seis basiliscos, dois liches, três centopeias, duas kikimoras rainhas, um miriápode alfa.**"
 
@@ -26782,11 +26782,11 @@ Ishtar: "**Eu quero que o senhor me diga uma coisa e eu quero que o senhor me di
 
 ---
 
-Imperos: "..."
+Impêros: "..."
 
 *Pausa.*
 
-Imperos: "**Pergunte.**"
+Impêros: "**Pergunte.**"
 
 ---
 
@@ -26798,39 +26798,39 @@ Silêncio na cobertura do Hotel Vermelho.
 
 ---
 
-Imperos: "..."
+Impêros: "..."
 
 *Pausa.*
 
-Imperos: "**Não sei.**"
+Impêros: "**Não sei.**"
 
 Ishtar: "**Querido—**"
 
-Imperos: "**Mestra, eu não estou omitindo. Eu não sei.**"
+Impêros: "**Mestra, eu não estou omitindo. Eu não sei.**"
 
 *Pausa.*
 
-Imperos: "**Existem seis anéis no peito daquele rapaz. Ele opera com todos fechados.**"
+Impêros: "**Existem seis anéis no peito daquele rapaz. Ele opera com todos fechados.**"
 
 *Pausa.*
 
-Imperos: "**O primeiro triplica tudo. O segundo é um evento meteorológico e eu o proibi.**"
+Impêros: "**O primeiro triplica tudo. O segundo é um evento meteorológico e eu o proibi.**"
 
 *Pausa.*
 
-Imperos: "**E do terceiro em diante ninguém sabe.**"
+Impêros: "**E do terceiro em diante ninguém sabe.**"
 
 Silêncio.
 
-Imperos: "**Nem eu. E eu tenho dez mil anos e eu vi este mundo inteiro por mais tempo do que existem palavras para medir.**"
+Impêros: "**Nem eu. E eu tenho dez mil anos e eu vi este mundo inteiro por mais tempo do que existem palavras para medir.**"
 
 *Pausa.*
 
-Imperos: "**E os selos foram feitos para conter um mortal.**"
+Impêros: "**E os selos foram feitos para conter um mortal.**"
 
 *Pausa.*
 
-Imperos: "**E o que está lá dentro não é só mortal.**"
+Impêros: "**E o que está lá dentro não é só mortal.**"
 
 ---
 
@@ -26844,7 +26844,7 @@ Ishtar: "..."
 
 Ishtar: "**Uma segunda pergunta.**"
 
-Imperos: "**Pergunte.**"
+Impêros: "**Pergunte.**"
 
 Ishtar: "**Hoje, no décimo primeiro minuto, um liche o marcou com uma maldição de vínculo.**"
 
@@ -26862,31 +26862,31 @@ Ishtar: "**O que foi aquilo?**"
 
 ---
 
-E Imperos ficou quieto por uns bons nove segundos.
+E Impêros ficou quieto por uns bons nove segundos.
 
 ---
 
-Imperos: "..."
+Impêros: "..."
 
 *Pausa.*
 
-Imperos: "**Aquilo não foi cura.**"
+Impêros: "**Aquilo não foi cura.**"
 
 Ishtar: "**Eu sei que não foi cura, querido. Eu tenho olhos.**"
 
-Imperos: "..."
+Impêros: "..."
 
 *Pausa.*
 
-Imperos: "**Uma maldição de vínculo é uma **inscrição**, mestra. Uma propriedade escrita sobre uma pessoa.**"
+Impêros: "**Uma maldição de vínculo é uma **inscrição**, mestra. Uma propriedade escrita sobre uma pessoa.**"
 
 *Pausa.*
 
-Imperos: "**Cura fecha o ferimento e não toca na inscrição.**"
+Impêros: "**Cura fecha o ferimento e não toca na inscrição.**"
 
 *Pausa.*
 
-Imperos: "**Ele apagou a inscrição.**"
+Impêros: "**Ele apagou a inscrição.**"
 
 ---
 
@@ -26902,15 +26902,15 @@ Silêncio absoluto na cobertura do Hotel Vermelho.
 
 ---
 
-E, é preciso registrar, foi a única vez em toda aquela semana em que Imperos do Firmamento hesitou antes de responder a Ishtar Silverseal.
+E, é preciso registrar, foi a única vez em toda aquela semana em que Impêros do Firmamento hesitou antes de responder a Ishtar Silverseal.
 
 ---
 
-Imperos: "..."
+Impêros: "..."
 
 *Pausa.*
 
-Imperos: "**A senhora está perguntando por causa da mulher do véu.**"
+Impêros: "**A senhora está perguntando por causa da mulher do véu.**"
 
 Ishtar: "..."
 
@@ -26922,27 +26922,27 @@ Ishtar: "**Estou.**"
 
 ---
 
-Imperos: "**Ele não sabe fazer aquilo, mestra.**"
+Impêros: "**Ele não sabe fazer aquilo, mestra.**"
 
 *Pausa.*
 
-Imperos: "**Ele não sabe **o que** fez hoje. Ele abriu a torneira porque estava incomodado e a coisa lá dentro resolveu.**"
+Impêros: "**Ele não sabe **o que** fez hoje. Ele abriu a torneira porque estava incomodado e a coisa lá dentro resolveu.**"
 
 *Pausa.*
 
-Imperos: "**E a coisa lá dentro é quinze por cento de um Cavaleiro de Classe C, e Cavaleiros desfazem encantamento complexo com um gesto, e está escrito assim em todo arquivo do Firmamento sobre aquela casta.**"
+Impêros: "**E a coisa lá dentro é quinze por cento de um Cavaleiro de Classe C, e Cavaleiros desfazem encantamento complexo com um gesto, e está escrito assim em todo arquivo do Firmamento sobre aquela casta.**"
 
 Silêncio.
 
-Imperos: "**Então sim.**"
+Impêros: "**Então sim.**"
 
 *Pausa.*
 
-Imperos: "**Se aquele rapaz um dia entender o que ele tem na mão—**"
+Impêros: "**Se aquele rapaz um dia entender o que ele tem na mão—**"
 
 *Pausa.*
 
-Imperos: "**—ele apaga qualquer coisa que Irene Belserion tenha escrito em qualquer lugar deste mundo.**"
+Impêros: "**—ele apaga qualquer coisa que Irene Belserion tenha escrito em qualquer lugar deste mundo.**"
 
 ---
 
@@ -26990,43 +26990,43 @@ Ishtar: "..."
 
 *Pausa.*
 
-Ishtar: "**Imperos.**"
+Ishtar: "**Impêros.**"
 
-Imperos: "**Mestra.**"
+Impêros: "**Mestra.**"
 
 Ishtar: "**O senhor acabou de me dar uma coisa muito perigosa.**"
 
-Imperos: "..."
+Impêros: "..."
 
 *Pausa.*
 
-Imperos: "**Eu sei.**"
+Impêros: "**Eu sei.**"
 
 Ishtar: "**Por quê?**"
 
 ---
 
-E Imperos, do Firmamento, guardião dos ritos e dos segredos, respondeu:
+E Impêros, do Firmamento, guardião dos ritos e dos segredos, respondeu:
 
 ---
 
-Imperos: "..."
+Impêros: "..."
 
 *Pausa.*
 
-Imperos: "**Porque a senhora perguntou.**"
+Impêros: "**Porque a senhora perguntou.**"
 
 *Pausa.*
 
-Imperos: "**E porque a minha sentença diz *serve o que amas, sem questionar, enquanto durar a linhagem*.**"
+Impêros: "**E porque a minha sentença diz *serve o que amas, sem questionar, enquanto durar a linhagem*.**"
 
 *Pausa.*
 
-Imperos: "**E a senhora é a linhagem, mestra.**"
+Impêros: "**E a senhora é a linhagem, mestra.**"
 
 *Pausa.*
 
-Imperos: "**E eu não sou autorizado a decidir qual dos dois merece mais.**"
+Impêros: "**E eu não sou autorizado a decidir qual dos dois merece mais.**"
 
 ---
 
@@ -27046,23 +27046,23 @@ E o dragão branco virou a cabeça.
 
 ---
 
-Imperos: "..."
+Impêros: "..."
 
 *Pausa.*
 
-Imperos: "**Então eu vou servir a senhora enquanto a senhora usa.**"
+Impêros: "**Então eu vou servir a senhora enquanto a senhora usa.**"
 
 *Pausa.*
 
-Imperos: "**E eu vou odiar cada segundo.**"
+Impêros: "**E eu vou odiar cada segundo.**"
 
 *Pausa.*
 
-Imperos: "**E eu já fiz isso antes, por quinhentos anos, ao lado de um homem que usava os cadáveres funcionais dos meus irmãos como luvas.**"
+Impêros: "**E eu já fiz isso antes, por quinhentos anos, ao lado de um homem que usava os cadáveres funcionais dos meus irmãos como luvas.**"
 
 *Pausa.*
 
-Imperos: "**Então a senhora não vai me ver reclamar.**"
+Impêros: "**Então a senhora não vai me ver reclamar.**"
 
 ---
 
@@ -27088,7 +27088,7 @@ Ishtar: "..."
 
 Ishtar: "**Eu não vou usar contra ele.**"
 
-Imperos: "..."
+Impêros: "..."
 
 Ishtar: "**Não porque eu seja boa, querido. Eu não sou.**"
 
@@ -27106,31 +27106,31 @@ Silêncio.
 
 ---
 
-Imperos: "..."
+Impêros: "..."
 
 *Pausa.*
 
-Imperos: "**Mestra.**"
+Impêros: "**Mestra.**"
 
 Ishtar: "Hm?"
 
-Imperos: "..."
+Impêros: "..."
 
 *Pausa.*
 
-Imperos: "**Eu estava lá naquele enterro.**"
+Impêros: "**Eu estava lá naquele enterro.**"
 
 *Pausa.*
 
-Imperos: "**E eu vi.**"
+Impêros: "**E eu vi.**"
 
 *Pausa.*
 
-Imperos: "**E a senhora chorou porque a senhora o amava.**"
+Impêros: "**E a senhora chorou porque a senhora o amava.**"
 
 *Pausa.*
 
-Imperos: "**E as duas coisas cabem numa pessoa, e não é uma contradição, e é a coisa que os Três nunca entenderam sobre vocês.**"
+Impêros: "**E as duas coisas cabem numa pessoa, e não é uma contradição, e é a coisa que os Três nunca entenderam sobre vocês.**"
 
 ---
 
@@ -29002,7 +29002,7 @@ Valerius: "**Vá jantar, senhor. O senhor está pálido.**"
 
 **Selos:** seis, invisíveis. Nenhum aberto em três dias.
 
-**Torneira de Vexrathan:** aberta duas vezes — para o olho de Erza (dia 3, manhã) e para **apagar a maldição de vínculo do liche** (dia 3, arena). A segunda foi presenciada por Irene Belserion e por Ishtar, e Imperos explicou o que era.
+**Torneira de Vexrathan:** aberta duas vezes — para o olho de Erza (dia 3, manhã) e para **apagar a maldição de vínculo do liche** (dia 3, arena). A segunda foi presenciada por Irene Belserion e por Ishtar, e Impêros explicou o que era.
 
 **Pressão de Vexrathan:** zerada e estável. Ele está **cooperando** — deu a André a instrução que resolveu o ovo.
 
@@ -29045,7 +29045,7 @@ Valerius: "**Vá jantar, senhor. O senhor está pálido.**"
 — **André deu quarenta unidades ao Natsu anonimamente.** Lucy sabe e não contou.
 
 **Fios em aberto:**
-1. **Imperos disse a Ishtar que André pode apagar qualquer inscrição de Irene** — inclusive a memória escrita de Eris. Ishtar entendeu. E prometeu não usar contra ele.
+1. **Impêros disse a Ishtar que André pode apagar qualquer inscrição de Irene** — inclusive a memória escrita de Eris. Ishtar entendeu. E prometeu não usar contra ele.
 2. **Irene viu o mesmo e entendeu que a coisa que apaga está na gema da filha dela.**
 3. **Erza notou que Eris não tem hábito de coisa pequena** — nenhuma prática manual em "vinte e um anos de vida".
 4. **Valerius rodou a cena do ovo quatro vezes.** *"Eu conheci quatro pessoas com aquele sangue e nenhuma aprendeu a não apertar."*
@@ -31073,7 +31073,7 @@ André: "**E hoje eu tenho um apelido em duzentos e onze mil exemplares.**"
 
 *Pausa.*
 
-André: "**E o Imperos vai ODIAR.**"
+André: "**E o Impêros vai ODIAR.**"
 
 *Pausa.*
 
@@ -31771,7 +31771,7 @@ E foram lidos os outros vinte.
 
 **Yukino Agria**, de Sabertooth — e a irmã dela, na galeria, não conseguiu ficar sentada e ficou de pé com as duas mãos na balaustrada e não disse nada.
 
-**Rogue Cheney. Orga Nanagear. Chelia Blendy. Yuka Suzuki. Sabra, do Grilhão Rompido. Wren Ashby, da Estrela Errante. Tomas Little, da Estrela Errante** — que tem dezenove anos, e que estava aterrorizado a semana inteira, e que foi assim mesmo.
+**Rogue Cheney. Orga Nanagear. Sherria Blendy. Yuka Suzuki. Sabra, do Grilhão Rompido. Wren Ashby, da Estrela Errante. Tomas Little, da Estrela Errante** — que tem dezenove anos, e que estava aterrorizado a semana inteira, e que foi assim mesmo.
 
 E outros dez.
 
@@ -32745,7 +32745,7 @@ André: "**Tô.**"
 **A cláusula:** combate contra Mago Santo vale 500 por vitória **e até 1.200 por desempenho**, a critério dos Vinte e Um. André precisa de 1.180. Ishtar lhe contou.
 
 **GRAUS CONCEDIDOS:**
-— **Grau B (22):** Juvia Lockser *(4.790 — recorde histórico)*, Natsu Dragneel, Liliana, Viktor, Yukino Agria, Rogue Cheney, Orga Nanagear, Chelia Blendy, Yuka Suzuki, Sabra, Wren Ashby, Tomas Little, e outros dez.
+— **Grau B (22):** Juvia Lockser *(4.790 — recorde histórico)*, Natsu Dragneel, Liliana, Viktor, Yukino Agria, Rogue Cheney, Orga Nanagear, Sherria Blendy, Yuka Suzuki, Sabra, Wren Ashby, Tomas Little, e outros dez.
 — **Grau A (12):** Gray Fullbuster, Milena Krass, Corvo, Odette Marlow, Ambrose Kell, Rufus Lore, Hibiki Lates, Fiorenzo Bracca, Abdul Alhazred, Lyon Vastia, Minerva Orlando, Kagura Mikazuchi. *(Roland Feye: confirmação de Grau A.)*
 
 **NOVIDADES PERMANENTES:**
@@ -32879,7 +32879,7 @@ Elfman: "...Gray?"
 
 E Gray Fullbuster estava sentado na beira da cama, de calça, com os dois cotovelos nos joelhos e as mãos na cabeça, e estava suando.
 
-E é preciso explicar por que isso importa: porque Gray Fullbuster **não sua**. É um mago de gelo de segunda geração, com trinta e um anos de convivência com a própria magia, cuja temperatura corporal é permanentemente dois graus abaixo da de um homem comum, e que dorme com a janela aberta em janeiro por hábito.
+E é preciso explicar por que isso importa: porque Gray Fullbuster **não sua**. É um mago de gelo de segunda geração, com vinte anos de convivência com a própria magia, cuja temperatura corporal é permanentemente dois graus abaixo da de um homem comum, e que dorme com a janela aberta em janeiro por hábito.
 
 E ele estava com o cabelo grudado na testa.
 
@@ -32943,7 +32943,7 @@ Elfman: "E eu pensei — eu pensei mesmo, foi um pensamento inteiro, com palavra
 
 Silêncio no quarto vinte e dois.
 
-Elfman: "Eu tenho vinte e sete anos e eu ainda faço isso."
+Elfman: "Eu tenho vinte anos e eu ainda faço isso."
 
 Elfman: "Eu ainda acho que a minha irmã mais velha resolve."
 
@@ -33371,7 +33371,7 @@ E Natsu Dragneel deu de ombros com um braço debaixo da nuca dela, o que é uma 
 
 Natsu: "Porque agora você é minha."
 
-E é preciso registrar que aquilo é, sem nenhuma concorrência, a coisa mais romântica que Natsu Dragneel disse em vinte e seis anos de calendário e quatrocentos de existência.
+E é preciso registrar que aquilo é, sem nenhuma concorrência, a coisa mais romântica que Natsu Dragneel disse em vinte anos de vida e quatrocentos de existência.
 
 E que ele a disse do jeito que se comenta o tempo.
 
@@ -33557,7 +33557,7 @@ Lucy: "Natsu, você foi o primeiro a chegar naquela floresta."
 
 Natsu: "..."
 
-Lucy: "No dia vinte e quatro. Você saiu por cima do telhado e você chegou primeiro que o Gildarts, e a Erza e o André estavam apanhando do Imperos, e você entrou."
+Lucy: "No dia vinte e quatro. Você saiu por cima do telhado e você chegou primeiro que o Gildarts, e a Erza e o André estavam apanhando do Impêros, e você entrou."
 
 E ele ficou quieto por uns segundos.
 
@@ -33617,7 +33617,7 @@ E acertou.
 
 Na nuca.
 
-E a coisa que era André Silverseal virou a cabeça — devagar, sem soltar Imperos, com nove metros de distância e uma lua vermelha por cima — e olhou para uma mulher de dezenove anos, ajoelhada na lama, com a mão ainda no ar.
+E a coisa que era André Silverseal virou a cabeça — devagar, sem soltar Impêros, com nove metros de distância e uma lua vermelha por cima — e olhou para uma mulher de dezenove anos, ajoelhada na lama, com a mão ainda no ar.
 
 E Lucy Heartfilia disse:
 
@@ -33875,7 +33875,7 @@ Mirajane: "E ele vai largar aquela mulher."
 
 E Lisanna Strauss deu um tapa na cara da irmã.
 
-E é preciso descrever aquele tapa, porque foi a coisa mais chocante que aconteceu naquele corredor em oito dias: Lisanna Strauss é uma mulher de vinte e seis anos que não bate em ninguém, que é a mais gentil das quinze mulheres daquela guilda, e que nunca em vinte e seis anos tinha erguido a mão para Mirajane.
+E é preciso descrever aquele tapa, porque foi a coisa mais chocante que aconteceu naquele corredor em oito dias: Lisanna Strauss é uma mulher de dezenove anos que não bate em ninguém, que é a mais gentil das quinze mulheres daquela guilda, e que nunca em dezenove anos tinha erguido a mão para Mirajane.
 
 E foi mão aberta.
 
@@ -33943,7 +33943,7 @@ Lisanna: "Ela chorou na noite de Clover, ela chorou no rio em outubro, ela choro
 
 Lisanna: "Você **nunca** chora."
 
-Lisanna: "Nunca. Em vinte e seis anos, eu te vi chorar três vezes e duas foram por minha causa."
+Lisanna: "Nunca. Em dezenove anos, eu te vi chorar três vezes e duas foram por minha causa."
 
 Lisanna: "E hoje é a terceira."
 
@@ -34125,7 +34125,7 @@ Mirajane: "Porque eu quero saber o que é que eu tenho dentro de mim."
 
 E Erza Scarlet abriu a boca e fechou.
 
-Mirajane: "O Imperos falou uma palavra naquela floresta, Erza. Uma palavra sobre mim, no meio de uma luta, e depois ele foi mordido por alguma coisa e ninguém voltou ao assunto."
+Mirajane: "O Impêros falou uma palavra naquela floresta, Erza. Uma palavra sobre mim, no meio de uma luta, e depois ele foi mordido por alguma coisa e ninguém voltou ao assunto."
 
 Mirajane: "E eu uso essa magia desde os treze anos."
 
@@ -34777,7 +34777,7 @@ André: "Erza, escuta."
 
 E ele segurou a nuca dela com a mão inteira.
 
-André: "Desde que o Imperos gravou o sexto selo, ele tá preso atrás de nove metros de parede."
+André: "Desde que o Impêros gravou o sexto selo, ele tá preso atrás de nove metros de parede."
 
 André: "E eu consigo cegar e emudecer ele."
 
@@ -35125,7 +35125,7 @@ Safina: "Você tem certeza."
 
 Mirajane: "..."
 
-Mirajane: "Eu tenho vinte e oito anos e eu uso essa coisa desde os treze, e ela matou a minha irmã uma vez."
+Mirajane: "Eu tenho vinte e um anos e eu uso essa coisa desde os treze, e ela matou a minha irmã uma vez."
 
 Mirajane: "Eu tenho certeza."
 
@@ -35211,7 +35211,7 @@ Safina: "Mas o resto?"
 
 Safina: "A tua magia é infernal. A tua densidade é infernal — é por isso que a Alma Satânica fere coisas que a magia de guilda não fere, e é por isso que aquela coisa na floresta te escolheu primeiro entre onze pessoas."
 
-Safina: "E parte da tua biologia mudou. Você não adoece. Você cicatriza rápido. Você tem vinte e oito anos e você tem o rosto de uma mulher de vinte e um."
+Safina: "E parte da tua biologia mudou. Você não adoece. Você cicatriza rápido. E esse rosto de vinte e um anos vai durar muito mais do que devia."
 
 Mirajane: "..."
 
@@ -35629,9 +35629,9 @@ Macao: "O moleque tá certo."
 
 Wakaba: "O moleque tá muito certo."
 
-E é preciso registrar quem estava naquele salão em vinte e oito de novembro, porque a Fairy Tail levou dezoito membros a Crocus e tem cento e nove: Macao Conbolt, Wakaba Mine, Romeo, Kinana atrás do balcão, Nab Lasaro de costas para o mural pela primeira vez em treze anos, Warren Racko, Max Alors, Jet, Droy, Laki Olietta, Bisca e Alzack com a Asuka no colo, e trinta pessoas em pé.
+E é preciso registrar quem estava naquele salão em vinte e oito de novembro, porque a Fairy Tail levou dezoito membros a Crocus e tem cento e nove: Macao Conbolt, Wakaba Mine, Romeo, Kinana atrás do balcão, Nab Lasaro de costas para o mural pela primeira vez em treze anos, Warren Rocko, Max Alors, Jet, Droy, Laki Olietta, Bisca e Alzack com a Asuka no colo, e trinta pessoas em pé.
 
-E Levy McGarden numa cadeira acolchoada com sete meses e três semanas de barriga, com Gajeel Redfox de pé atrás dela como uma coluna, tendo chegado de Crocus na noite anterior porque o Conselho o dispensou por quarenta e oito horas.
+E Levy McGarden numa cadeira acolchoada com cinco meses e meio de barriga, com Gajeel Redfox de pé atrás dela como uma coluna, tendo chegado de Crocus na noite anterior porque o Conselho o dispensou por quarenta e oito horas.
 
 Levy: "Gajeel, senta."
 
@@ -35661,29 +35661,29 @@ E Ishtar Silverseal o tinha encomendado numa quinta-feira a um marceneiro da Rua
 
 E, sentado nele, com as asas dobradas e a cauda enrolada no braço direito, havia um dragão branco do tamanho de um falcão grande.
 
-Imperos: "..."
+Impêros: "..."
 
 Ishtar: "Confortável?"
 
-Imperos: "Isto é excessivo, mestra."
+Impêros: "Isto é excessivo, mestra."
 
 Ishtar: "É."
 
-Imperos: "É absolutamente excessivo. É um móvel. Para um animal de sete quilos."
+Impêros: "É absolutamente excessivo. É um móvel. Para um animal de sete quilos."
 
 Ishtar: "Eu sei, querido."
 
-Imperos: "..."
+Impêros: "..."
 
-Imperos: "...O encosto está numa altura muito boa."
+Impêros: "...O encosto está numa altura muito boa."
 
 Ishtar: "**HAHAHAHAHA!**"
 
-Imperos: "**EU NÃO DISSE QUE GOSTEI.**"
+Impêros: "**EU NÃO DISSE QUE GOSTEI.**"
 
 Ishtar: "Você disse que o encosto está numa altura muito boa!"
 
-Imperos: "Isso é uma observação técnica!"
+Impêros: "Isso é uma observação técnica!"
 
 Ishtar: "É claro que é, querido."
 
@@ -35909,7 +35909,7 @@ André: "Eu quebrei osso mais vezes do que eu consigo contar, e eu tentei contar
 
 André: "Eu sangrei mais litros de sangue do que eu já criei litros de água com magia, e eu criei muita água."
 
-André: "E eu nunca venci um único duelo contra o Imperos."
+André: "E eu nunca venci um único duelo contra o Impêros."
 
 André: "Nem um, Gray. Em quinze anos."
 
@@ -36817,23 +36817,23 @@ Safina: "Em nada. Esquece."
 
 E, do trono de quarenta e um centímetros na galeria de Succubus's Hall, um dragão branco disse:
 
-Imperos: "Mestra."
+Impêros: "Mestra."
 
 Ishtar: "Hm?"
 
-Imperos: "A mulher de Seven."
+Impêros: "A mulher de Seven."
 
 Ishtar: "Eu vi, querido."
 
-Imperos: "A senhora deveria comprá-la."
+Impêros: "A senhora deveria comprá-la."
 
 Ishtar: "**HAHAHAHAHA!**"
 
-Imperos: "Eu falo sério."
+Impêros: "Eu falo sério."
 
-Ishtar: "Imperos, ela é filha de um Mago Santo."
+Ishtar: "Impêros, ela é filha de um Mago Santo."
 
-Imperos: "E o Mago Santo é pobre."
+Impêros: "E o Mago Santo é pobre."
 
 Ishtar: "..."
 
@@ -36878,7 +36878,7 @@ Ferimentos de Bacchus: dez impactos retardados simultâneos; flanco esquerdo des
 — **Erza contou sobre o Vexrathan durante o sexo** — André cega e emudece o inquilino todas as vezes desde a primeira.
 — **André contou a primeira vez dele** (Bosco, 16 anos) e o que fez com o ladrão.
 — **Erza declarou que nunca terá medo dele**, aconteça o que acontecer.
-— **Ishtar mandou fazer um trono de quarenta e um centímetros para Imperos.**
+— **Ishtar mandou fazer um trono de quarenta e um centímetros para Impêros.**
 — **Jura Neekis é co-locutor** com Duncan Fisher e Jason — e aceitou para dar espaço a Lyon Vastia.
 
 **FIOS EM ABERTO:**
@@ -36886,7 +36886,7 @@ Ferimentos de Bacchus: dez impactos retardados simultâneos; flanco esquerdo des
 2. Mirajane sabe que é amada e isso a motivou em vez de acalmá-la.
 3. Lucy conta sobre Zeref se André cair contra Eris — e Eris está na mesma chave.
 4. Gray vai treinar com o homem que ele quer aprender a matar.
-5. Imperos sugeriu a Ishtar comprar Milena Krass.
+5. Impêros sugeriu a Ishtar comprar Milena Krass.
 6. Erza vai revistar o quarto atrás de Safina amanhã de manhã.
 7. Vessen Har reforçou a barreira com dezenove estacas — e André × Ishtar é o último combate do dia.
 
